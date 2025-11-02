@@ -49,17 +49,18 @@ Our model employs a **mixed-integer linear programming (MILP)** approach to mini
 The objective minimizes total annual system cost including generation, transmission, stationary storage and EV (V2G) storage investments:
 
 ```math
-\begin{aligned}
-\min_{g_{npt},G_{np},F_{nm},\chi^{S}_{n,s},Z^{S}_{n,s},B^{S}_{n,s},B^{EV}_{nm}} \quad 
-&\sum_{n \in N} \sum_{p \in P} \sum_{t \in T} c^{g}_{npt} \cdot g_{npt} 
-+ \sum_{n \in N} \sum_{p \in P} c^G_{np} \cdot G_{np} \\
-&+ \sum_{n \in N} \sum_{m \in N} c^F_{nm} \cdot F_{nm} \\
-&+ \sum_{n \in N} \sum_{s \in S} \chi^{S}_{n,s} \cdot c^{S,Capex,\chi}_{s} 
-+ \sum_{n \in N} \sum_{s \in S} Z^{S}_{n,s} \cdot c^{S,Capex,Z}_{s} \\
-&+ \sum_{n \in N} \sum_{s \in S} B^{S}_{n,s} \cdot c^{S,Capex,B^{S}}_{s} 
-+ c^{EV,Capex} \sum_{n \in N} \sum_{m \in N} \frac{B^{EV}_{nm}}{cap^{EV,B^{EV}}} \tau_{nm}
-\end{aligned}
-
+\begin{equation}
+\min_{g_{npt}, G_{np}, F_{nm}, \chi^{S}_{ns}, Z^{S}_{ns}, B^{S}_{ns}, B^{EV}_{nm}}
+\quad
+\sum_{n \in N} \sum_{p \in P} \sum_{t \in T} c^{g}_{npt} \cdot g_{npt}
++ \sum_{n \in N} \sum_{p \in P} c^{G}_{np} \cdot G_{np}
++ \sum_{n \in N} \sum_{m \in N} c^{F}_{nm} \cdot F_{nm}
++ \sum_{n \in N} \sum_{s \in S} \chi^{S}_{ns} \cdot c^{S,Capex,\chi}_{s}
++ \sum_{n \in N} \sum_{s \in S} Z^{S}_{ns} \cdot c^{S,Capex,Z}_{s}
++ \sum_{n \in N} \sum_{s \in S} B^{S}_{ns} \cdot c^{S,Capex,B}_{s}
++ c^{EV,Capex} \sum_{n \in N} \sum_{m \in N} \frac{B^{EV}_{nm}}{cap^{EV,B}} \tau_{nm}
+\end{equation}
+```
 Subject to constraints for:
 - Energy balance and demand satisfaction
 - Renewable generation and capacity limits
