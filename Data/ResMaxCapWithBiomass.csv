@@ -1,0 +1,170 @@
+﻿Column1,technology,GW
+Bbcity,Offshore,0
+Bbcity,Offshore,0
+Bbcity,Onshore,0
+Bbcity,Solar PV,8
+Bbcity,Biomass CCS,0.689655172
+Bbcountry,Hydro,0.008
+Bbcountry,Offshore,0
+Bbcountry,Onshore,6.284
+Bbcountry,Solar PV,16.71011
+Bbcountry,Biomass CCS,0.689655172
+Becity,Hydro,0.00001
+Becity,Offshore,0
+Becity,Onshore,0
+Becity,Solar PV,3.5822284
+Becity,Biomass CCS,0.689655172
+Becountry,Hydro,0
+Becountry,Offshore,0
+Becountry,Onshore,0.1
+Becountry,Solar PV,4
+Becountry,Biomass CCS,0
+Bwcity,Hydro,0.000055
+Bwcity,Offshore,0
+Bwcity,Onshore,0
+Bwcity,Solar PV,2
+Bwcity,Biomass CCS,0.689655172
+Bwcountry,Hydro,1.224
+Bwcountry,Offshore,0
+Bwcountry,Onshore,7.66667
+Bwcountry,Solar PV,35.48247421
+Bwcountry,Biomass CCS,0.689655172
+Bycity,Hydro,0.000055
+Bycity,Offshore,0
+Bycity,Onshore,0
+Bycity,Solar PV,4
+Bycity,Biomass CCS,0.689655172
+Bycountry,Hydro,3.033003
+Bycountry,Offshore,0
+Bycountry,Onshore,13.6667
+Bycountry,Solar PV,54.30019107
+Bycountry,Biomass CCS,0.689655172
+Hbcity,Hydro,0.01000429
+Hbcity,Offshore,0
+Hbcity,Onshore,0.0666667
+Hbcity,Solar PV,1.5
+Hbcity,Biomass CCS,0.689655172
+Hbcountry,Hydro,0
+Hbcountry,Offshore,0
+Hbcountry,Onshore,0
+Hbcountry,Solar PV,0
+Hbcountry,Biomass CCS,0
+Hecity,Hydro,0.000055
+Hecity,Offshore,0
+Hecity,Onshore,0
+Hecity,Solar PV,2
+Hecity,Biomass CCS,0.689655172
+Hecountry,Hydro,0.11
+Hecountry,Offshore,0
+Hecountry,Onshore,4.66667
+Hecountry,Solar PV,18.52733072
+Hecountry,Biomass CCS,0.689655172
+Hhcity,Hydro,0.0001
+Hhcity,Offshore,0
+Hhcity,Onshore,0
+Hhcity,Solar PV,4
+Hhcity,Biomass CCS,21
+Hhcountry,Hydro,0
+Hhcountry,Offshore,0
+Hhcountry,Onshore,0.1
+Hhcountry,Solar PV,0
+Hhcountry,Solar PV,0
+Hhcountry,Biomass CCS,0
+Hhcountry,Biomass CCS,0.689655172
+Mvcity,Hydro,0.000055
+Mvcity,Offshore,0
+Mvcity,Onshore,0
+Mvcity,Solar PV,4
+Mvcity,Biomass CCS,0.689655172
+Mvcountry,Hydro,0.005
+Mvcountry,Offshore,3.25658
+Mvcountry,Onshore,3.66667
+Mvcountry,Solar PV,11.3725367
+Mvcountry,Biomass CCS,0.689655172
+Nicity,Hydro,0.000055
+Nicity,Offshore,0
+Nicity,Onshore,0
+Nicity,Solar PV,4
+Nicity,Biomass CCS,0.689655172
+Nicountry,Hydro,0.127
+Nicountry,Offshore,20.8566
+Nicountry,Onshore,9.8685
+Nicountry,Solar PV,30.80305
+Nicountry,Solar PV,39.04446174
+Nicountry,Biomass CCS,0.689655172
+Nicountry,Biomass CCS,0.689655172
+Nwcity,Hydro,0.000055
+Nwcity,Offshore,0
+Nwcity,Onshore,0
+Nwcity,Solar PV,3.745712227
+Nwcity,Solar PV,3.745712227
+Nwcity,Biomass CCS,0.689655172
+Nwcity,Biomass CCS,0.689655172
+Nwcountry,Hydro,0.273
+Nwcountry,Offshore,0
+Nwcountry,Onshore,6.66667
+Nwcountry,Solar PV,42.54821
+Nwcountry,Biomass CCS,0.689655172
+Rpcity,Hydro,0.000055
+Rpcity,Offshore,0
+Rpcity,Onshore,0
+Rpcity,Solar PV,4
+Rpcity,Biomass CCS,0.689655172
+Rpcountry,Hydro,0.405
+Rpcountry,Offshore,0
+Rpcountry,Onshore,4
+Rpcountry,Solar PV,15.34617733
+Rpcountry,Biomass CCS,0.689655172
+Sea,Offshore,80
+Seasea,Hydro,0
+Seasea,Solar PV,0
+Seasea,Biomass CCS,0.689655172
+Shcity,Hydro,0.000055
+Shcity,Offshore,0
+Shcity,Onshore,0
+Shcity,Solar PV,4
+Shcity,Biomass CCS,0.689655172
+Shcountry,Hydro,0.006
+Shcountry,Offshore,11.9902
+Shcountry,Onshore,6.283
+Shcountry,Solar PV,12.99374871
+Shcountry,Biomass CCS,0.689655172
+Slcity,Hydro,0.000055
+Slcity,Offshore,0
+Slcity,Onshore,0
+Slcity,Solar PV,4
+Slcity,Biomass CCS,0.689655172
+Slcountry,Hydro,0.0564461
+Slcountry,Offshore,0
+Slcountry,Onshore,0.8
+Slcountry,Solar PV,3
+Slcountry,Biomass CCS,0.689655172
+Sncity,Hydro,0.000055
+Sncity,Offshore,0
+Sncity,Onshore,0
+Sncity,Solar PV,4
+Sncity,Biomass CCS,0.689655172
+Sncountry,Hydro,0.113
+Sncountry,Offshore,0
+Sncountry,Onshore,3.33333
+Sncountry,Solar PV,13.31566239
+Sncountry,Biomass CCS,0.689655172
+Stcity,Hydro,0.000055
+Stcity,Offshore,0
+Stcity,Onshore,0
+Stcity,Solar PV,4
+Stcity,Biomass CCS,0.689655172
+Stcountry,Hydro,0.033
+Stcountry,Offshore,0
+Stcountry,Onshore,4.936
+Stcountry,Solar PV,11.87291679
+Stcountry,Biomass CCS,0.689655172
+Thcity,Hydro,0.000055
+Thcity,Offshore,0
+Thcity,Onshore,0
+Thcity,Solar PV,4
+Thcity,Biomass CCS,0.689655172
+Thcountry,Hydro,0.057
+Thcountry,Offshore,0
+Thcountry,Onshore,2.5
+Thcountry,Solar PV,9.706471513

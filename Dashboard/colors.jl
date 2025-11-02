@@ -1,0 +1,15 @@
+colors = Dict(
+    "CoalMine" => "#4d3d35",
+    "GasExtractor" => "#ff814b",
+    "Coal" => "#754937",
+    "Lignite" => "#e54213",
+    "OCGT" => "#472111",
+    "CCGT" => "#880000",
+    "Power2Gas" => "#26c6da",
+    "H2Car" => "#96ffff",
+    "Biomass" => "#00726c",
+    "Offshore" => "#00667e",
+    "Onshore" => "#518696",
+    "SolarPV" => "#ffeb3b",
+    "ElectricHeater" => "#fccf92",
+)

@@ -1,0 +1,1609 @@
+country,Plant,hour,value
+Becountry,Solar PV,0,0.0
+Bbcountry,Solar PV,0,0.0
+Hbcountry,Solar PV,0,0.0
+Hhcountry,Solar PV,0,0.0
+Mvcountry,Solar PV,0,0.0
+Slcountry,Solar PV,0,0.0
+Stcountry,Solar PV,0,0.0
+Shcountry,Solar PV,0,0.0
+Thcountry,Solar PV,0,0.0
+Bwcountry,Solar PV,0,0.0
+Bycountry,Solar PV,0,0.0
+Hecountry,Solar PV,0,0.0
+Nicountry,Solar PV,0,0.0
+Nwcountry,Solar PV,0,0.0
+Rpcountry,Solar PV,0,0.0
+Sncountry,Solar PV,0,0.0
+Becountry,Solar PV,1,0.0
+Bbcountry,Solar PV,1,0.0
+Hbcountry,Solar PV,1,0.0
+Hhcountry,Solar PV,1,0.0
+Mvcountry,Solar PV,1,0.0
+Slcountry,Solar PV,1,0.0
+Stcountry,Solar PV,1,0.0
+Shcountry,Solar PV,1,0.0
+Thcountry,Solar PV,1,0.0
+Bwcountry,Solar PV,1,0.0
+Bycountry,Solar PV,1,0.0
+Hecountry,Solar PV,1,0.0
+Nicountry,Solar PV,1,0.0
+Nwcountry,Solar PV,1,0.0
+Rpcountry,Solar PV,1,0.0
+Sncountry,Solar PV,1,0.0
+Becountry,Solar PV,2,0.0
+Bbcountry,Solar PV,2,0.0
+Hbcountry,Solar PV,2,0.0
+Hhcountry,Solar PV,2,0.0
+Mvcountry,Solar PV,2,0.0
+Slcountry,Solar PV,2,0.0
+Stcountry,Solar PV,2,0.0
+Shcountry,Solar PV,2,0.0
+Thcountry,Solar PV,2,0.0
+Bwcountry,Solar PV,2,0.0
+Bycountry,Solar PV,2,0.0
+Hecountry,Solar PV,2,0.0
+Nicountry,Solar PV,2,0.0
+Nwcountry,Solar PV,2,0.0
+Rpcountry,Solar PV,2,0.0
+Sncountry,Solar PV,2,0.0
+Becountry,Solar PV,3,0.0
+Bbcountry,Solar PV,3,0.0
+Hbcountry,Solar PV,3,0.0
+Hhcountry,Solar PV,3,0.0
+Mvcountry,Solar PV,3,0.0
+Slcountry,Solar PV,3,0.0
+Stcountry,Solar PV,3,0.0
+Shcountry,Solar PV,3,0.0
+Thcountry,Solar PV,3,0.0
+Bwcountry,Solar PV,3,0.0
+Bycountry,Solar PV,3,0.0
+Hecountry,Solar PV,3,0.0
+Nicountry,Solar PV,3,0.0
+Nwcountry,Solar PV,3,0.0
+Rpcountry,Solar PV,3,0.0
+Sncountry,Solar PV,3,0.0
+Becountry,Solar PV,4,0.0
+Bbcountry,Solar PV,4,0.0
+Hbcountry,Solar PV,4,0.0
+Hhcountry,Solar PV,4,0.0
+Mvcountry,Solar PV,4,0.0
+Slcountry,Solar PV,4,0.0
+Stcountry,Solar PV,4,0.0
+Shcountry,Solar PV,4,0.0
+Thcountry,Solar PV,4,0.0
+Bwcountry,Solar PV,4,0.0
+Bycountry,Solar PV,4,0.0
+Hecountry,Solar PV,4,0.0
+Nicountry,Solar PV,4,0.0
+Nwcountry,Solar PV,4,0.0
+Rpcountry,Solar PV,4,0.0
+Sncountry,Solar PV,4,0.0
+Becountry,Solar PV,5,0.0
+Bbcountry,Solar PV,5,0.0
+Hbcountry,Solar PV,5,0.0
+Hhcountry,Solar PV,5,0.0
+Mvcountry,Solar PV,5,0.0
+Slcountry,Solar PV,5,0.0
+Stcountry,Solar PV,5,0.0
+Shcountry,Solar PV,5,0.0
+Thcountry,Solar PV,5,0.0
+Bwcountry,Solar PV,5,0.0
+Bycountry,Solar PV,5,0.0
+Hecountry,Solar PV,5,0.0
+Nicountry,Solar PV,5,0.0
+Nwcountry,Solar PV,5,0.0
+Rpcountry,Solar PV,5,0.0
+Sncountry,Solar PV,5,0.0
+Becountry,Solar PV,6,0.0
+Bbcountry,Solar PV,6,0.0
+Hbcountry,Solar PV,6,0.0
+Hhcountry,Solar PV,6,0.0
+Mvcountry,Solar PV,6,0.0
+Slcountry,Solar PV,6,0.0
+Stcountry,Solar PV,6,0.0
+Shcountry,Solar PV,6,0.0
+Thcountry,Solar PV,6,0.001
+Bwcountry,Solar PV,6,0.0
+Bycountry,Solar PV,6,0.0014285714285714
+Hecountry,Solar PV,6,0.0
+Nicountry,Solar PV,6,0.0
+Nwcountry,Solar PV,6,0.0
+Rpcountry,Solar PV,6,0.0
+Sncountry,Solar PV,6,0.0
+Becountry,Solar PV,7,0.021
+Bbcountry,Solar PV,7,0.027
+Hbcountry,Solar PV,7,0.01
+Hhcountry,Solar PV,7,0.012
+Mvcountry,Solar PV,7,0.022
+Slcountry,Solar PV,7,0.008
+Stcountry,Solar PV,7,0.057
+Shcountry,Solar PV,7,0.012
+Thcountry,Solar PV,7,0.096
+Bwcountry,Solar PV,7,0.02975
+Bycountry,Solar PV,7,0.132428571428571
+Hecountry,Solar PV,7,0.033
+Nicountry,Solar PV,7,0.029
+Nwcountry,Solar PV,7,0.0256
+Rpcountry,Solar PV,7,0.0056666666666666
+Sncountry,Solar PV,7,0.0643333333333333
+Becountry,Solar PV,8,0.068
+Bbcountry,Solar PV,8,0.086
+Hbcountry,Solar PV,8,0.078
+Hhcountry,Solar PV,8,0.067
+Mvcountry,Solar PV,8,0.077
+Slcountry,Solar PV,8,0.052
+Stcountry,Solar PV,8,0.19
+Shcountry,Solar PV,8,0.066
+Thcountry,Solar PV,8,0.291
+Bwcountry,Solar PV,8,0.08825
+Bycountry,Solar PV,8,0.287857142857143
+Hecountry,Solar PV,8,0.106
+Nicountry,Solar PV,8,0.13875
+Nwcountry,Solar PV,8,0.0966
+Rpcountry,Solar PV,8,0.0393333333333333
+Sncountry,Solar PV,8,0.212
+Becountry,Solar PV,9,0.126
+Bbcountry,Solar PV,9,0.158
+Hbcountry,Solar PV,9,0.247
+Hhcountry,Solar PV,9,0.135
+Mvcountry,Solar PV,9,0.131
+Slcountry,Solar PV,9,0.091
+Stcountry,Solar PV,9,0.34
+Shcountry,Solar PV,9,0.123
+Thcountry,Solar PV,9,0.456
+Bwcountry,Solar PV,9,0.17625
+Bycountry,Solar PV,9,0.408
+Hecountry,Solar PV,9,0.17
+Nicountry,Solar PV,9,0.28
+Nwcountry,Solar PV,9,0.1512
+Rpcountry,Solar PV,9,0.091
+Sncountry,Solar PV,9,0.379333333333333
+Becountry,Solar PV,10,0.192
+Bbcountry,Solar PV,10,0.245
+Hbcountry,Solar PV,10,0.347
+Hhcountry,Solar PV,10,0.216
+Mvcountry,Solar PV,10,0.186
+Slcountry,Solar PV,10,0.111
+Stcountry,Solar PV,10,0.441
+Shcountry,Solar PV,10,0.168
+Thcountry,Solar PV,10,0.52
+Bwcountry,Solar PV,10,0.294
+Bycountry,Solar PV,10,0.445857142857143
+Hecountry,Solar PV,10,0.204666666666667
+Nicountry,Solar PV,10,0.3715
+Nwcountry,Solar PV,10,0.1734
+Rpcountry,Solar PV,10,0.147333333333333
+Sncountry,Solar PV,10,0.487666666666667
+Becountry,Solar PV,11,0.241
+Bbcountry,Solar PV,11,0.299
+Hbcountry,Solar PV,11,0.407
+Hhcountry,Solar PV,11,0.273
+Mvcountry,Solar PV,11,0.21
+Slcountry,Solar PV,11,0.145
+Stcountry,Solar PV,11,0.474
+Shcountry,Solar PV,11,0.184
+Thcountry,Solar PV,11,0.523
+Bwcountry,Solar PV,11,0.39225
+Bycountry,Solar PV,11,0.423714285714286
+Hecountry,Solar PV,11,0.23
+Nicountry,Solar PV,11,0.3915
+Nwcountry,Solar PV,11,0.1828
+Rpcountry,Solar PV,11,0.182
+Sncountry,Solar PV,11,0.505666666666667
+Becountry,Solar PV,12,0.285
+Bbcountry,Solar PV,12,0.309
+Hbcountry,Solar PV,12,0.381
+Hhcountry,Solar PV,12,0.3
+Mvcountry,Solar PV,12,0.178
+Slcountry,Solar PV,12,0.197
+Stcountry,Solar PV,12,0.443
+Shcountry,Solar PV,12,0.173
+Thcountry,Solar PV,12,0.454
+Bwcountry,Solar PV,12,0.38275
+Bycountry,Solar PV,12,0.367857142857143
+Hecountry,Solar PV,12,0.221
+Nicountry,Solar PV,12,0.35275
+Nwcountry,Solar PV,12,0.1984
+Rpcountry,Solar PV,12,0.197
+Sncountry,Solar PV,12,0.446333333333333
+Becountry,Solar PV,13,0.265
+Bbcountry,Solar PV,13,0.25
+Hbcountry,Solar PV,13,0.302
+Hhcountry,Solar PV,13,0.245
+Mvcountry,Solar PV,13,0.125
+Slcountry,Solar PV,13,0.191
+Stcountry,Solar PV,13,0.344
+Shcountry,Solar PV,13,0.139
+Thcountry,Solar PV,13,0.323
+Bwcountry,Solar PV,13,0.3245
+Bycountry,Solar PV,13,0.281
+Hecountry,Solar PV,13,0.168666666666667
+Nicountry,Solar PV,13,0.2695
+Nwcountry,Solar PV,13,0.1752
+Rpcountry,Solar PV,13,0.16
+Sncountry,Solar PV,13,0.324
+Becountry,Solar PV,14,0.12
+Bbcountry,Solar PV,14,0.12
+Hbcountry,Solar PV,14,0.168
+Hhcountry,Solar PV,14,0.107
+Mvcountry,Solar PV,14,0.056
+Slcountry,Solar PV,14,0.144
+Stcountry,Solar PV,14,0.186
+Shcountry,Solar PV,14,0.068
+Thcountry,Solar PV,14,0.157
+Bwcountry,Solar PV,14,0.2045
+Bycountry,Solar PV,14,0.163142857142857
+Hecountry,Solar PV,14,0.0876666666666667
+Nicountry,Solar PV,14,0.14775
+Nwcountry,Solar PV,14,0.0994
+Rpcountry,Solar PV,14,0.107666666666667
+Sncountry,Solar PV,14,0.155666666666667
+Becountry,Solar PV,15,0.004
+Bbcountry,Solar PV,15,0.005
+Hbcountry,Solar PV,15,0.025
+Hhcountry,Solar PV,15,0.01
+Mvcountry,Solar PV,15,0.001
+Slcountry,Solar PV,15,0.049
+Stcountry,Solar PV,15,0.023
+Shcountry,Solar PV,15,0.005
+Thcountry,Solar PV,15,0.024
+Bwcountry,Solar PV,15,0.04725
+Bycountry,Solar PV,15,0.0307142857142857
+Hecountry,Solar PV,15,0.016
+Nicountry,Solar PV,15,0.02175
+Nwcountry,Solar PV,15,0.019
+Rpcountry,Solar PV,15,0.0276666666666667
+Sncountry,Solar PV,15,0.0126666666666667
+Becountry,Solar PV,16,0.0
+Bbcountry,Solar PV,16,0.0
+Hbcountry,Solar PV,16,0.0
+Hhcountry,Solar PV,16,0.0
+Mvcountry,Solar PV,16,0.0
+Slcountry,Solar PV,16,0.0
+Stcountry,Solar PV,16,0.0
+Shcountry,Solar PV,16,0.0
+Thcountry,Solar PV,16,0.0
+Bwcountry,Solar PV,16,0.0
+Bycountry,Solar PV,16,0.0
+Hecountry,Solar PV,16,0.0
+Nicountry,Solar PV,16,0.0
+Nwcountry,Solar PV,16,0.0
+Rpcountry,Solar PV,16,0.0
+Sncountry,Solar PV,16,0.0
+Becountry,Solar PV,17,0.0
+Bbcountry,Solar PV,17,0.0
+Hbcountry,Solar PV,17,0.0
+Hhcountry,Solar PV,17,0.0
+Mvcountry,Solar PV,17,0.0
+Slcountry,Solar PV,17,0.0
+Stcountry,Solar PV,17,0.0
+Shcountry,Solar PV,17,0.0
+Thcountry,Solar PV,17,0.0
+Bwcountry,Solar PV,17,0.0
+Bycountry,Solar PV,17,0.0
+Hecountry,Solar PV,17,0.0
+Nicountry,Solar PV,17,0.0
+Nwcountry,Solar PV,17,0.0
+Rpcountry,Solar PV,17,0.0
+Sncountry,Solar PV,17,0.0
+Becountry,Solar PV,18,0.0
+Bbcountry,Solar PV,18,0.0
+Hbcountry,Solar PV,18,0.0
+Hhcountry,Solar PV,18,0.0
+Mvcountry,Solar PV,18,0.0
+Slcountry,Solar PV,18,0.0
+Stcountry,Solar PV,18,0.0
+Shcountry,Solar PV,18,0.0
+Thcountry,Solar PV,18,0.0
+Bwcountry,Solar PV,18,0.0
+Bycountry,Solar PV,18,0.0
+Hecountry,Solar PV,18,0.0
+Nicountry,Solar PV,18,0.0
+Nwcountry,Solar PV,18,0.0
+Rpcountry,Solar PV,18,0.0
+Sncountry,Solar PV,18,0.0
+Becountry,Solar PV,19,0.0
+Bbcountry,Solar PV,19,0.0
+Hbcountry,Solar PV,19,0.0
+Hhcountry,Solar PV,19,0.0
+Mvcountry,Solar PV,19,0.0
+Slcountry,Solar PV,19,0.0
+Stcountry,Solar PV,19,0.0
+Shcountry,Solar PV,19,0.0
+Thcountry,Solar PV,19,0.0
+Bwcountry,Solar PV,19,0.0
+Bycountry,Solar PV,19,0.0
+Hecountry,Solar PV,19,0.0
+Nicountry,Solar PV,19,0.0
+Nwcountry,Solar PV,19,0.0
+Rpcountry,Solar PV,19,0.0
+Sncountry,Solar PV,19,0.0
+Becountry,Solar PV,20,0.0
+Bbcountry,Solar PV,20,0.0
+Hbcountry,Solar PV,20,0.0
+Hhcountry,Solar PV,20,0.0
+Mvcountry,Solar PV,20,0.0
+Slcountry,Solar PV,20,0.0
+Stcountry,Solar PV,20,0.0
+Shcountry,Solar PV,20,0.0
+Thcountry,Solar PV,20,0.0
+Bwcountry,Solar PV,20,0.0
+Bycountry,Solar PV,20,0.0
+Hecountry,Solar PV,20,0.0
+Nicountry,Solar PV,20,0.0
+Nwcountry,Solar PV,20,0.0
+Rpcountry,Solar PV,20,0.0
+Sncountry,Solar PV,20,0.0
+Becountry,Solar PV,21,0.0
+Bbcountry,Solar PV,21,0.0
+Hbcountry,Solar PV,21,0.0
+Hhcountry,Solar PV,21,0.0
+Mvcountry,Solar PV,21,0.0
+Slcountry,Solar PV,21,0.0
+Stcountry,Solar PV,21,0.0
+Shcountry,Solar PV,21,0.0
+Thcountry,Solar PV,21,0.0
+Bwcountry,Solar PV,21,0.0
+Bycountry,Solar PV,21,0.0
+Hecountry,Solar PV,21,0.0
+Nicountry,Solar PV,21,0.0
+Nwcountry,Solar PV,21,0.0
+Rpcountry,Solar PV,21,0.0
+Sncountry,Solar PV,21,0.0
+Becountry,Solar PV,22,0.0
+Bbcountry,Solar PV,22,0.0
+Hbcountry,Solar PV,22,0.0
+Hhcountry,Solar PV,22,0.0
+Mvcountry,Solar PV,22,0.0
+Slcountry,Solar PV,22,0.0
+Stcountry,Solar PV,22,0.0
+Shcountry,Solar PV,22,0.0
+Thcountry,Solar PV,22,0.0
+Bwcountry,Solar PV,22,0.0
+Bycountry,Solar PV,22,0.0
+Hecountry,Solar PV,22,0.0
+Nicountry,Solar PV,22,0.0
+Nwcountry,Solar PV,22,0.0
+Rpcountry,Solar PV,22,0.0
+Sncountry,Solar PV,22,0.0
+Becountry,Solar PV,23,0.0
+Bbcountry,Solar PV,23,0.0
+Hbcountry,Solar PV,23,0.0
+Hhcountry,Solar PV,23,0.0
+Mvcountry,Solar PV,23,0.0
+Slcountry,Solar PV,23,0.0
+Stcountry,Solar PV,23,0.0
+Shcountry,Solar PV,23,0.0
+Thcountry,Solar PV,23,0.0
+Bwcountry,Solar PV,23,0.0
+Bycountry,Solar PV,23,0.0
+Hecountry,Solar PV,23,0.0
+Nicountry,Solar PV,23,0.0
+Nwcountry,Solar PV,23,0.0
+Rpcountry,Solar PV,23,0.0
+Sncountry,Solar PV,23,0.0
+Becountry,Onshore,0,0.1289
+Bbcountry,Onshore,0,0.1695
+Hbcountry,Onshore,0,0.1048
+Hhcountry,Onshore,0,0.0967
+Mvcountry,Onshore,0,0.3442
+Slcountry,Onshore,0,0.0401
+Stcountry,Onshore,0,0.1953
+Shcountry,Onshore,0,0.3453
+Thcountry,Onshore,0,0.2143
+Bwcountry,Onshore,0,0.106825
+Bycountry,Onshore,0,0.111814285714286
+Hecountry,Onshore,0,0.1076
+Nicountry,Onshore,0,0.11485
+Nwcountry,Onshore,0,0.1412
+Rpcountry,Onshore,0,0.0446333333333333
+Sncountry,Onshore,0,0.2165
+Becountry,Onshore,1,0.1142
+Bbcountry,Onshore,1,0.1516
+Hbcountry,Onshore,1,0.1101
+Hhcountry,Onshore,1,0.1033
+Mvcountry,Onshore,1,0.3141
+Slcountry,Onshore,1,0.047
+Stcountry,Onshore,1,0.1697
+Shcountry,Onshore,1,0.2945
+Thcountry,Onshore,1,0.1918
+Bwcountry,Onshore,1,0.1104
+Bycountry,Onshore,1,0.0899428571428571
+Hecountry,Onshore,1,0.092
+Nicountry,Onshore,1,0.115375
+Nwcountry,Onshore,1,0.1399
+Rpcountry,Onshore,1,0.0352333333333333
+Sncountry,Onshore,1,0.195566666666667
+Becountry,Onshore,2,0.0826
+Bbcountry,Onshore,2,0.1301
+Hbcountry,Onshore,2,0.1044
+Hhcountry,Onshore,2,0.1005
+Mvcountry,Onshore,2,0.2816
+Slcountry,Onshore,2,0.0628
+Stcountry,Onshore,2,0.1494
+Shcountry,Onshore,2,0.2599
+Thcountry,Onshore,2,0.1808
+Bwcountry,Onshore,2,0.12295
+Bycountry,Onshore,2,0.0815571428571429
+Hecountry,Onshore,2,0.0645666666666667
+Nicountry,Onshore,2,0.1128
+Nwcountry,Onshore,2,0.12526
+Rpcountry,Onshore,2,0.0345666666666667
+Sncountry,Onshore,2,0.171166666666667
+Becountry,Onshore,3,0.0698
+Bbcountry,Onshore,3,0.1197
+Hbcountry,Onshore,3,0.0955
+Hhcountry,Onshore,3,0.0869
+Mvcountry,Onshore,3,0.2639
+Slcountry,Onshore,3,0.0786
+Stcountry,Onshore,3,0.1384
+Shcountry,Onshore,3,0.2328
+Thcountry,Onshore,3,0.1695
+Bwcountry,Onshore,3,0.134125
+Bycountry,Onshore,3,0.0852142857142857
+Hecountry,Onshore,3,0.0422666666666667
+Nicountry,Onshore,3,0.109775
+Nwcountry,Onshore,3,0.09982
+Rpcountry,Onshore,3,0.0425666666666667
+Sncountry,Onshore,3,0.1513
+Becountry,Onshore,4,0.0666
+Bbcountry,Onshore,4,0.1108
+Hbcountry,Onshore,4,0.099
+Hhcountry,Onshore,4,0.0842
+Mvcountry,Onshore,4,0.2519
+Slcountry,Onshore,4,0.087
+Stcountry,Onshore,4,0.1335
+Shcountry,Onshore,4,0.2235
+Thcountry,Onshore,4,0.1432
+Bwcountry,Onshore,4,0.140325
+Bycountry,Onshore,4,0.103528571428571
+Hecountry,Onshore,4,0.0325666666666667
+Nicountry,Onshore,4,0.112475
+Nwcountry,Onshore,4,0.07188
+Rpcountry,Onshore,4,0.0537666666666667
+Sncountry,Onshore,4,0.137766666666667
+Becountry,Onshore,5,0.0637
+Bbcountry,Onshore,5,0.1034
+Hbcountry,Onshore,5,0.1037
+Hhcountry,Onshore,5,0.0858
+Mvcountry,Onshore,5,0.2354
+Slcountry,Onshore,5,0.0888
+Stcountry,Onshore,5,0.1333
+Shcountry,Onshore,5,0.219
+Thcountry,Onshore,5,0.1157
+Bwcountry,Onshore,5,0.149425
+Bycountry,Onshore,5,0.136542857142857
+Hecountry,Onshore,5,0.0340333333333333
+Nicountry,Onshore,5,0.110575
+Nwcountry,Onshore,5,0.05392
+Rpcountry,Onshore,5,0.0668333333333333
+Sncountry,Onshore,5,0.128666666666667
+Becountry,Onshore,6,0.0648
+Bbcountry,Onshore,6,0.0979
+Hbcountry,Onshore,6,0.1159
+Hhcountry,Onshore,6,0.0915
+Mvcountry,Onshore,6,0.2175
+Slcountry,Onshore,6,0.0991
+Stcountry,Onshore,6,0.1344
+Shcountry,Onshore,6,0.2151
+Thcountry,Onshore,6,0.0993
+Bwcountry,Onshore,6,0.155825
+Bycountry,Onshore,6,0.169571428571429
+Hecountry,Onshore,6,0.0487333333333333
+Nicountry,Onshore,6,0.110325
+Nwcountry,Onshore,6,0.04372
+Rpcountry,Onshore,6,0.0781666666666667
+Sncountry,Onshore,6,0.120066666666667
+Becountry,Onshore,7,0.0587
+Bbcountry,Onshore,7,0.0837
+Hbcountry,Onshore,7,0.1231
+Hhcountry,Onshore,7,0.0911
+Mvcountry,Onshore,7,0.1954
+Slcountry,Onshore,7,0.0774
+Stcountry,Onshore,7,0.1205
+Shcountry,Onshore,7,0.2161
+Thcountry,Onshore,7,0.0904
+Bwcountry,Onshore,7,0.13445
+Bycountry,Onshore,7,0.158342857142857
+Hecountry,Onshore,7,0.0688666666666667
+Nicountry,Onshore,7,0.105025
+Nwcountry,Onshore,7,0.03688
+Rpcountry,Onshore,7,0.0778
+Sncountry,Onshore,7,0.0959333333333333
+Becountry,Onshore,8,0.0302
+Bbcountry,Onshore,8,0.0503
+Hbcountry,Onshore,8,0.1048
+Hhcountry,Onshore,8,0.0691
+Mvcountry,Onshore,8,0.1689
+Slcountry,Onshore,8,0.0877
+Stcountry,Onshore,8,0.0615
+Shcountry,Onshore,8,0.2163
+Thcountry,Onshore,8,0.0636
+Bwcountry,Onshore,8,0.0988
+Bycountry,Onshore,8,0.0844857142857143
+Hecountry,Onshore,8,0.0832
+Nicountry,Onshore,8,0.0796
+Nwcountry,Onshore,8,0.02372
+Rpcountry,Onshore,8,0.0850666666666667
+Sncountry,Onshore,8,0.0451666666666667
+Becountry,Onshore,9,0.0092
+Bbcountry,Onshore,9,0.0228
+Hbcountry,Onshore,9,0.1109
+Hhcountry,Onshore,9,0.0673
+Mvcountry,Onshore,9,0.1423
+Slcountry,Onshore,9,0.0953
+Stcountry,Onshore,9,0.0331
+Shcountry,Onshore,9,0.2465
+Thcountry,Onshore,9,0.0654
+Bwcountry,Onshore,9,0.071225
+Bycountry,Onshore,9,0.0736428571428571
+Hecountry,Onshore,9,0.086
+Nicountry,Onshore,9,0.078625
+Nwcountry,Onshore,9,0.02134
+Rpcountry,Onshore,9,0.0898333333333333
+Sncountry,Onshore,9,0.0226666666666667
+Becountry,Onshore,10,0.0072
+Bbcountry,Onshore,10,0.0195
+Hbcountry,Onshore,10,0.1213
+Hhcountry,Onshore,10,0.0848
+Mvcountry,Onshore,10,0.1189
+Slcountry,Onshore,10,0.0847
+Stcountry,Onshore,10,0.0404
+Shcountry,Onshore,10,0.2802
+Thcountry,Onshore,10,0.1033
+Bwcountry,Onshore,10,0.085225
+Bycountry,Onshore,10,0.107357142857143
+Hecountry,Onshore,10,0.121166666666667
+Nicountry,Onshore,10,0.09105
+Nwcountry,Onshore,10,0.02854
+Rpcountry,Onshore,10,0.0913333333333333
+Sncountry,Onshore,10,0.0162666666666667
+Becountry,Onshore,11,0.0125
+Bbcountry,Onshore,11,0.0219
+Hbcountry,Onshore,11,0.1263
+Hhcountry,Onshore,11,0.0837
+Mvcountry,Onshore,11,0.0983
+Slcountry,Onshore,11,0.0828
+Stcountry,Onshore,11,0.0393
+Shcountry,Onshore,11,0.2989
+Thcountry,Onshore,11,0.1022
+Bwcountry,Onshore,11,0.08515
+Bycountry,Onshore,11,0.0881428571428571
+Hecountry,Onshore,11,0.135733333333333
+Nicountry,Onshore,11,0.099025
+Nwcountry,Onshore,11,0.03346
+Rpcountry,Onshore,11,0.0771
+Sncountry,Onshore,11,0.0152333333333333
+Becountry,Onshore,12,0.0151
+Bbcountry,Onshore,12,0.0237
+Hbcountry,Onshore,12,0.1081
+Hhcountry,Onshore,12,0.0621
+Mvcountry,Onshore,12,0.0831
+Slcountry,Onshore,12,0.0759
+Stcountry,Onshore,12,0.0345
+Shcountry,Onshore,12,0.3053
+Thcountry,Onshore,12,0.0759
+Bwcountry,Onshore,12,0.06545
+Bycountry,Onshore,12,0.0622285714285714
+Hecountry,Onshore,12,0.119833333333333
+Nicountry,Onshore,12,0.0963
+Nwcountry,Onshore,12,0.03462
+Rpcountry,Onshore,12,0.0639333333333333
+Sncountry,Onshore,12,0.0150666666666667
+Becountry,Onshore,13,0.0145
+Bbcountry,Onshore,13,0.0216
+Hbcountry,Onshore,13,0.0737
+Hhcountry,Onshore,13,0.0332
+Mvcountry,Onshore,13,0.0668
+Slcountry,Onshore,13,0.0469
+Stcountry,Onshore,13,0.0277
+Shcountry,Onshore,13,0.2848
+Thcountry,Onshore,13,0.0494
+Bwcountry,Onshore,13,0.0415
+Bycountry,Onshore,13,0.0410428571428571
+Hecountry,Onshore,13,0.0980666666666667
+Nicountry,Onshore,13,0.084875
+Nwcountry,Onshore,13,0.03234
+Rpcountry,Onshore,13,0.0484333333333333
+Sncountry,Onshore,13,0.0125333333333333
+Becountry,Onshore,14,0.0205
+Bbcountry,Onshore,14,0.0304
+Hbcountry,Onshore,14,0.0551
+Hhcountry,Onshore,14,0.025
+Mvcountry,Onshore,14,0.0672
+Slcountry,Onshore,14,0.016
+Stcountry,Onshore,14,0.038
+Shcountry,Onshore,14,0.2711
+Thcountry,Onshore,14,0.0349
+Bwcountry,Onshore,14,0.014775
+Bycountry,Onshore,14,0.0269428571428571
+Hecountry,Onshore,14,0.0645
+Nicountry,Onshore,14,0.07775
+Nwcountry,Onshore,14,0.02646
+Rpcountry,Onshore,14,0.0253333333333333
+Sncountry,Onshore,14,0.0135
+Becountry,Onshore,15,0.0379
+Bbcountry,Onshore,15,0.0592
+Hbcountry,Onshore,15,0.083
+Hhcountry,Onshore,15,0.0383
+Mvcountry,Onshore,15,0.0903
+Slcountry,Onshore,15,0.0036
+Stcountry,Onshore,15,0.0804
+Shcountry,Onshore,15,0.257
+Thcountry,Onshore,15,0.0551
+Bwcountry,Onshore,15,0.00795
+Bycountry,Onshore,15,0.0322428571428571
+Hecountry,Onshore,15,0.0683333333333333
+Nicountry,Onshore,15,0.1071
+Nwcountry,Onshore,15,0.0389
+Rpcountry,Onshore,15,0.0141333333333333
+Sncountry,Onshore,15,0.0354333333333333
+Becountry,Onshore,16,0.071
+Bbcountry,Onshore,16,0.1101
+Hbcountry,Onshore,16,0.1684
+Hhcountry,Onshore,16,0.0901
+Mvcountry,Onshore,16,0.1273
+Slcountry,Onshore,16,0.0178
+Stcountry,Onshore,16,0.14
+Shcountry,Onshore,16,0.2323
+Thcountry,Onshore,16,0.1052
+Bwcountry,Onshore,16,0.036575
+Bycountry,Onshore,16,0.0516714285714286
+Hecountry,Onshore,16,0.0899666666666667
+Nicountry,Onshore,16,0.16425
+Nwcountry,Onshore,16,0.06666
+Rpcountry,Onshore,16,0.0151666666666667
+Sncountry,Onshore,16,0.0889333333333333
+Becountry,Onshore,17,0.1154
+Bbcountry,Onshore,17,0.1654
+Hbcountry,Onshore,17,0.2598
+Hhcountry,Onshore,17,0.1699
+Mvcountry,Onshore,17,0.1654
+Slcountry,Onshore,17,0.0817
+Stcountry,Onshore,17,0.1884
+Shcountry,Onshore,17,0.2372
+Thcountry,Onshore,17,0.1471
+Bwcountry,Onshore,17,0.086875
+Bycountry,Onshore,17,0.0800714285714286
+Hecountry,Onshore,17,0.0965333333333333
+Nicountry,Onshore,17,0.21505
+Nwcountry,Onshore,17,0.09884
+Rpcountry,Onshore,17,0.0403
+Sncountry,Onshore,17,0.146
+Becountry,Onshore,18,0.1428
+Bbcountry,Onshore,18,0.1967
+Hbcountry,Onshore,18,0.2827
+Hhcountry,Onshore,18,0.2202
+Mvcountry,Onshore,18,0.1908
+Slcountry,Onshore,18,0.1752
+Stcountry,Onshore,18,0.2087
+Shcountry,Onshore,18,0.2638
+Thcountry,Onshore,18,0.1663
+Bwcountry,Onshore,18,0.139475
+Bycountry,Onshore,18,0.118642857142857
+Hecountry,Onshore,18,0.100533333333333
+Nicountry,Onshore,18,0.22965
+Nwcountry,Onshore,18,0.1378
+Rpcountry,Onshore,18,0.097
+Sncountry,Onshore,18,0.1812
+Becountry,Onshore,19,0.1411
+Bbcountry,Onshore,19,0.197
+Hbcountry,Onshore,19,0.2712
+Hhcountry,Onshore,19,0.2185
+Mvcountry,Onshore,19,0.1942
+Slcountry,Onshore,19,0.2609
+Stcountry,Onshore,19,0.2017
+Shcountry,Onshore,19,0.2878
+Thcountry,Onshore,19,0.1681
+Bwcountry,Onshore,19,0.19135
+Bycountry,Onshore,19,0.178614285714286
+Hecountry,Onshore,19,0.1095
+Nicountry,Onshore,19,0.223675
+Nwcountry,Onshore,19,0.1835
+Rpcountry,Onshore,19,0.170766666666667
+Sncountry,Onshore,19,0.199666666666667
+Becountry,Onshore,20,0.1312
+Bbcountry,Onshore,20,0.1842
+Hbcountry,Onshore,20,0.2419
+Hhcountry,Onshore,20,0.1994
+Mvcountry,Onshore,20,0.1783
+Slcountry,Onshore,20,0.2946
+Stcountry,Onshore,20,0.1847
+Shcountry,Onshore,20,0.3062
+Thcountry,Onshore,20,0.1627
+Bwcountry,Onshore,20,0.2304
+Bycountry,Onshore,20,0.2445
+Hecountry,Onshore,20,0.1401
+Nicountry,Onshore,20,0.213425
+Nwcountry,Onshore,20,0.2116
+Rpcountry,Onshore,20,0.2152
+Sncountry,Onshore,20,0.1977
+Becountry,Onshore,21,0.1179
+Bbcountry,Onshore,21,0.1615
+Hbcountry,Onshore,21,0.2468
+Hhcountry,Onshore,21,0.1903
+Mvcountry,Onshore,21,0.1486
+Slcountry,Onshore,21,0.3117
+Stcountry,Onshore,21,0.1733
+Shcountry,Onshore,21,0.3367
+Thcountry,Onshore,21,0.1535
+Bwcountry,Onshore,21,0.231175
+Bycountry,Onshore,21,0.2816
+Hecountry,Onshore,21,0.183866666666667
+Nicountry,Onshore,21,0.21235
+Nwcountry,Onshore,21,0.2139
+Rpcountry,Onshore,21,0.238933333333333
+Sncountry,Onshore,21,0.182533333333333
+Becountry,Onshore,22,0.1135
+Bbcountry,Onshore,22,0.151
+Hbcountry,Onshore,22,0.2408
+Hhcountry,Onshore,22,0.1862
+Mvcountry,Onshore,22,0.1244
+Slcountry,Onshore,22,0.313
+Stcountry,Onshore,22,0.1713
+Shcountry,Onshore,22,0.3523
+Thcountry,Onshore,22,0.1472
+Bwcountry,Onshore,22,0.237225
+Bycountry,Onshore,22,0.269185714285714
+Hecountry,Onshore,22,0.2022
+Nicountry,Onshore,22,0.213825
+Nwcountry,Onshore,22,0.21822
+Rpcountry,Onshore,22,0.258266666666667
+Sncountry,Onshore,22,0.180666666666667
+Becountry,Onshore,23,0.1358
+Bbcountry,Onshore,23,0.1588
+Hbcountry,Onshore,23,0.2537
+Hhcountry,Onshore,23,0.1872
+Mvcountry,Onshore,23,0.1111
+Slcountry,Onshore,23,0.2784
+Stcountry,Onshore,23,0.1756
+Shcountry,Onshore,23,0.3599
+Thcountry,Onshore,23,0.1398
+Bwcountry,Onshore,23,0.2866
+Bycountry,Onshore,23,0.239171428571429
+Hecountry,Onshore,23,0.196466666666667
+Nicountry,Onshore,23,0.219975
+Nwcountry,Onshore,23,0.22164
+Rpcountry,Onshore,23,0.281533333333333
+Sncountry,Onshore,23,0.190266666666667
+Becity,Solar PV,0,0.0
+Bbcity,Solar PV,0,0.0
+Hbcity,Solar PV,0,0.0
+Hhcity,Solar PV,0,0.0
+Mvcity,Solar PV,0,0.0
+Slcity,Solar PV,0,0.0
+Stcity,Solar PV,0,0.0
+Shcity,Solar PV,0,0.0
+Thcity,Solar PV,0,0.0
+Bwcity,Solar PV,0,0.0
+Bycity,Solar PV,0,0.0
+Hecity,Solar PV,0,0.0
+Nicity,Solar PV,0,0.0
+Nwcity,Solar PV,0,0.0
+Rpcity,Solar PV,0,0.0
+Sncity,Solar PV,0,0.0
+Becity,Solar PV,1,0.0
+Bbcity,Solar PV,1,0.0
+Hbcity,Solar PV,1,0.0
+Hhcity,Solar PV,1,0.0
+Mvcity,Solar PV,1,0.0
+Slcity,Solar PV,1,0.0
+Stcity,Solar PV,1,0.0
+Shcity,Solar PV,1,0.0
+Thcity,Solar PV,1,0.0
+Bwcity,Solar PV,1,0.0
+Bycity,Solar PV,1,0.0
+Hecity,Solar PV,1,0.0
+Nicity,Solar PV,1,0.0
+Nwcity,Solar PV,1,0.0
+Rpcity,Solar PV,1,0.0
+Sncity,Solar PV,1,0.0
+Becity,Solar PV,2,0.0
+Bbcity,Solar PV,2,0.0
+Hbcity,Solar PV,2,0.0
+Hhcity,Solar PV,2,0.0
+Mvcity,Solar PV,2,0.0
+Slcity,Solar PV,2,0.0
+Stcity,Solar PV,2,0.0
+Shcity,Solar PV,2,0.0
+Thcity,Solar PV,2,0.0
+Bwcity,Solar PV,2,0.0
+Bycity,Solar PV,2,0.0
+Hecity,Solar PV,2,0.0
+Nicity,Solar PV,2,0.0
+Nwcity,Solar PV,2,0.0
+Rpcity,Solar PV,2,0.0
+Sncity,Solar PV,2,0.0
+Becity,Solar PV,3,0.0
+Bbcity,Solar PV,3,0.0
+Hbcity,Solar PV,3,0.0
+Hhcity,Solar PV,3,0.0
+Mvcity,Solar PV,3,0.0
+Slcity,Solar PV,3,0.0
+Stcity,Solar PV,3,0.0
+Shcity,Solar PV,3,0.0
+Thcity,Solar PV,3,0.0
+Bwcity,Solar PV,3,0.0
+Bycity,Solar PV,3,0.0
+Hecity,Solar PV,3,0.0
+Nicity,Solar PV,3,0.0
+Nwcity,Solar PV,3,0.0
+Rpcity,Solar PV,3,0.0
+Sncity,Solar PV,3,0.0
+Becity,Solar PV,4,0.0
+Bbcity,Solar PV,4,0.0
+Hbcity,Solar PV,4,0.0
+Hhcity,Solar PV,4,0.0
+Mvcity,Solar PV,4,0.0
+Slcity,Solar PV,4,0.0
+Stcity,Solar PV,4,0.0
+Shcity,Solar PV,4,0.0
+Thcity,Solar PV,4,0.0
+Bwcity,Solar PV,4,0.0
+Bycity,Solar PV,4,0.0
+Hecity,Solar PV,4,0.0
+Nicity,Solar PV,4,0.0
+Nwcity,Solar PV,4,0.0
+Rpcity,Solar PV,4,0.0
+Sncity,Solar PV,4,0.0
+Becity,Solar PV,5,0.0
+Bbcity,Solar PV,5,0.0
+Hbcity,Solar PV,5,0.0
+Hhcity,Solar PV,5,0.0
+Mvcity,Solar PV,5,0.0
+Slcity,Solar PV,5,0.0
+Stcity,Solar PV,5,0.0
+Shcity,Solar PV,5,0.0
+Thcity,Solar PV,5,0.0
+Bwcity,Solar PV,5,0.0
+Bycity,Solar PV,5,0.0
+Hecity,Solar PV,5,0.0
+Nicity,Solar PV,5,0.0
+Nwcity,Solar PV,5,0.0
+Rpcity,Solar PV,5,0.0
+Sncity,Solar PV,5,0.0
+Becity,Solar PV,6,0.0
+Bbcity,Solar PV,6,0.0
+Hbcity,Solar PV,6,0.0
+Hhcity,Solar PV,6,0.0
+Mvcity,Solar PV,6,0.0
+Slcity,Solar PV,6,0.0
+Stcity,Solar PV,6,0.0
+Shcity,Solar PV,6,0.0
+Thcity,Solar PV,6,0.001
+Bwcity,Solar PV,6,0.0
+Bycity,Solar PV,6,0.0014285714285714
+Hecity,Solar PV,6,0.0
+Nicity,Solar PV,6,0.0
+Nwcity,Solar PV,6,0.0
+Rpcity,Solar PV,6,0.0
+Sncity,Solar PV,6,0.0
+Becity,Solar PV,7,0.021
+Bbcity,Solar PV,7,0.027
+Hbcity,Solar PV,7,0.01
+Hhcity,Solar PV,7,0.012
+Mvcity,Solar PV,7,0.022
+Slcity,Solar PV,7,0.008
+Stcity,Solar PV,7,0.057
+Shcity,Solar PV,7,0.012
+Thcity,Solar PV,7,0.096
+Bwcity,Solar PV,7,0.02975
+Bycity,Solar PV,7,0.132428571428571
+Hecity,Solar PV,7,0.033
+Nicity,Solar PV,7,0.029
+Nwcity,Solar PV,7,0.0256
+Rpcity,Solar PV,7,0.0056666666666666
+Sncity,Solar PV,7,0.0643333333333333
+Becity,Solar PV,8,0.068
+Bbcity,Solar PV,8,0.086
+Hbcity,Solar PV,8,0.078
+Hhcity,Solar PV,8,0.067
+Mvcity,Solar PV,8,0.077
+Slcity,Solar PV,8,0.052
+Stcity,Solar PV,8,0.19
+Shcity,Solar PV,8,0.066
+Thcity,Solar PV,8,0.291
+Bwcity,Solar PV,8,0.08825
+Bycity,Solar PV,8,0.287857142857143
+Hecity,Solar PV,8,0.106
+Nicity,Solar PV,8,0.13875
+Nwcity,Solar PV,8,0.0966
+Rpcity,Solar PV,8,0.0393333333333333
+Sncity,Solar PV,8,0.212
+Becity,Solar PV,9,0.126
+Bbcity,Solar PV,9,0.158
+Hbcity,Solar PV,9,0.247
+Hhcity,Solar PV,9,0.135
+Mvcity,Solar PV,9,0.131
+Slcity,Solar PV,9,0.091
+Stcity,Solar PV,9,0.34
+Shcity,Solar PV,9,0.123
+Thcity,Solar PV,9,0.456
+Bwcity,Solar PV,9,0.17625
+Bycity,Solar PV,9,0.408
+Hecity,Solar PV,9,0.17
+Nicity,Solar PV,9,0.28
+Nwcity,Solar PV,9,0.1512
+Rpcity,Solar PV,9,0.091
+Sncity,Solar PV,9,0.379333333333333
+Becity,Solar PV,10,0.192
+Bbcity,Solar PV,10,0.245
+Hbcity,Solar PV,10,0.347
+Hhcity,Solar PV,10,0.216
+Mvcity,Solar PV,10,0.186
+Slcity,Solar PV,10,0.111
+Stcity,Solar PV,10,0.441
+Shcity,Solar PV,10,0.168
+Thcity,Solar PV,10,0.52
+Bwcity,Solar PV,10,0.294
+Bycity,Solar PV,10,0.445857142857143
+Hecity,Solar PV,10,0.204666666666667
+Nicity,Solar PV,10,0.3715
+Nwcity,Solar PV,10,0.1734
+Rpcity,Solar PV,10,0.147333333333333
+Sncity,Solar PV,10,0.487666666666667
+Becity,Solar PV,11,0.241
+Bbcity,Solar PV,11,0.299
+Hbcity,Solar PV,11,0.407
+Hhcity,Solar PV,11,0.273
+Mvcity,Solar PV,11,0.21
+Slcity,Solar PV,11,0.145
+Stcity,Solar PV,11,0.474
+Shcity,Solar PV,11,0.184
+Thcity,Solar PV,11,0.523
+Bwcity,Solar PV,11,0.39225
+Bycity,Solar PV,11,0.423714285714286
+Hecity,Solar PV,11,0.23
+Nicity,Solar PV,11,0.3915
+Nwcity,Solar PV,11,0.1828
+Rpcity,Solar PV,11,0.182
+Sncity,Solar PV,11,0.505666666666667
+Becity,Solar PV,12,0.285
+Bbcity,Solar PV,12,0.309
+Hbcity,Solar PV,12,0.381
+Hhcity,Solar PV,12,0.3
+Mvcity,Solar PV,12,0.178
+Slcity,Solar PV,12,0.197
+Stcity,Solar PV,12,0.443
+Shcity,Solar PV,12,0.173
+Thcity,Solar PV,12,0.454
+Bwcity,Solar PV,12,0.38275
+Bycity,Solar PV,12,0.367857142857143
+Hecity,Solar PV,12,0.221
+Nicity,Solar PV,12,0.35275
+Nwcity,Solar PV,12,0.1984
+Rpcity,Solar PV,12,0.197
+Sncity,Solar PV,12,0.446333333333333
+Becity,Solar PV,13,0.265
+Bbcity,Solar PV,13,0.25
+Hbcity,Solar PV,13,0.302
+Hhcity,Solar PV,13,0.245
+Mvcity,Solar PV,13,0.125
+Slcity,Solar PV,13,0.191
+Stcity,Solar PV,13,0.344
+Shcity,Solar PV,13,0.139
+Thcity,Solar PV,13,0.323
+Bwcity,Solar PV,13,0.3245
+Bycity,Solar PV,13,0.281
+Hecity,Solar PV,13,0.168666666666667
+Nicity,Solar PV,13,0.2695
+Nwcity,Solar PV,13,0.1752
+Rpcity,Solar PV,13,0.16
+Sncity,Solar PV,13,0.324
+Becity,Solar PV,14,0.12
+Bbcity,Solar PV,14,0.12
+Hbcity,Solar PV,14,0.168
+Hhcity,Solar PV,14,0.107
+Mvcity,Solar PV,14,0.056
+Slcity,Solar PV,14,0.144
+Stcity,Solar PV,14,0.186
+Shcity,Solar PV,14,0.068
+Thcity,Solar PV,14,0.157
+Bwcity,Solar PV,14,0.2045
+Bycity,Solar PV,14,0.163142857142857
+Hecity,Solar PV,14,0.0876666666666667
+Nicity,Solar PV,14,0.14775
+Nwcity,Solar PV,14,0.0994
+Rpcity,Solar PV,14,0.107666666666667
+Sncity,Solar PV,14,0.155666666666667
+Becity,Solar PV,15,0.004
+Bbcity,Solar PV,15,0.005
+Hbcity,Solar PV,15,0.025
+Hhcity,Solar PV,15,0.01
+Mvcity,Solar PV,15,0.001
+Slcity,Solar PV,15,0.049
+Stcity,Solar PV,15,0.023
+Shcity,Solar PV,15,0.005
+Thcity,Solar PV,15,0.024
+Bwcity,Solar PV,15,0.04725
+Bycity,Solar PV,15,0.0307142857142857
+Hecity,Solar PV,15,0.016
+Nicity,Solar PV,15,0.02175
+Nwcity,Solar PV,15,0.019
+Rpcity,Solar PV,15,0.0276666666666667
+Sncity,Solar PV,15,0.0126666666666667
+Becity,Solar PV,16,0.0
+Bbcity,Solar PV,16,0.0
+Hbcity,Solar PV,16,0.0
+Hhcity,Solar PV,16,0.0
+Mvcity,Solar PV,16,0.0
+Slcity,Solar PV,16,0.0
+Stcity,Solar PV,16,0.0
+Shcity,Solar PV,16,0.0
+Thcity,Solar PV,16,0.0
+Bwcity,Solar PV,16,0.0
+Bycity,Solar PV,16,0.0
+Hecity,Solar PV,16,0.0
+Nicity,Solar PV,16,0.0
+Nwcity,Solar PV,16,0.0
+Rpcity,Solar PV,16,0.0
+Sncity,Solar PV,16,0.0
+Becity,Solar PV,17,0.0
+Bbcity,Solar PV,17,0.0
+Hbcity,Solar PV,17,0.0
+Hhcity,Solar PV,17,0.0
+Mvcity,Solar PV,17,0.0
+Slcity,Solar PV,17,0.0
+Stcity,Solar PV,17,0.0
+Shcity,Solar PV,17,0.0
+Thcity,Solar PV,17,0.0
+Bwcity,Solar PV,17,0.0
+Bycity,Solar PV,17,0.0
+Hecity,Solar PV,17,0.0
+Nicity,Solar PV,17,0.0
+Nwcity,Solar PV,17,0.0
+Rpcity,Solar PV,17,0.0
+Sncity,Solar PV,17,0.0
+Becity,Solar PV,18,0.0
+Bbcity,Solar PV,18,0.0
+Hbcity,Solar PV,18,0.0
+Hhcity,Solar PV,18,0.0
+Mvcity,Solar PV,18,0.0
+Slcity,Solar PV,18,0.0
+Stcity,Solar PV,18,0.0
+Shcity,Solar PV,18,0.0
+Thcity,Solar PV,18,0.0
+Bwcity,Solar PV,18,0.0
+Bycity,Solar PV,18,0.0
+Hecity,Solar PV,18,0.0
+Nicity,Solar PV,18,0.0
+Nwcity,Solar PV,18,0.0
+Rpcity,Solar PV,18,0.0
+Sncity,Solar PV,18,0.0
+Becity,Solar PV,19,0.0
+Bbcity,Solar PV,19,0.0
+Hbcity,Solar PV,19,0.0
+Hhcity,Solar PV,19,0.0
+Mvcity,Solar PV,19,0.0
+Slcity,Solar PV,19,0.0
+Stcity,Solar PV,19,0.0
+Shcity,Solar PV,19,0.0
+Thcity,Solar PV,19,0.0
+Bwcity,Solar PV,19,0.0
+Bycity,Solar PV,19,0.0
+Hecity,Solar PV,19,0.0
+Nicity,Solar PV,19,0.0
+Nwcity,Solar PV,19,0.0
+Rpcity,Solar PV,19,0.0
+Sncity,Solar PV,19,0.0
+Becity,Solar PV,20,0.0
+Bbcity,Solar PV,20,0.0
+Hbcity,Solar PV,20,0.0
+Hhcity,Solar PV,20,0.0
+Mvcity,Solar PV,20,0.0
+Slcity,Solar PV,20,0.0
+Stcity,Solar PV,20,0.0
+Shcity,Solar PV,20,0.0
+Thcity,Solar PV,20,0.0
+Bwcity,Solar PV,20,0.0
+Bycity,Solar PV,20,0.0
+Hecity,Solar PV,20,0.0
+Nicity,Solar PV,20,0.0
+Nwcity,Solar PV,20,0.0
+Rpcity,Solar PV,20,0.0
+Sncity,Solar PV,20,0.0
+Becity,Solar PV,21,0.0
+Bbcity,Solar PV,21,0.0
+Hbcity,Solar PV,21,0.0
+Hhcity,Solar PV,21,0.0
+Mvcity,Solar PV,21,0.0
+Slcity,Solar PV,21,0.0
+Stcity,Solar PV,21,0.0
+Shcity,Solar PV,21,0.0
+Thcity,Solar PV,21,0.0
+Bwcity,Solar PV,21,0.0
+Bycity,Solar PV,21,0.0
+Hecity,Solar PV,21,0.0
+Nicity,Solar PV,21,0.0
+Nwcity,Solar PV,21,0.0
+Rpcity,Solar PV,21,0.0
+Sncity,Solar PV,21,0.0
+Becity,Solar PV,22,0.0
+Bbcity,Solar PV,22,0.0
+Hbcity,Solar PV,22,0.0
+Hhcity,Solar PV,22,0.0
+Mvcity,Solar PV,22,0.0
+Slcity,Solar PV,22,0.0
+Stcity,Solar PV,22,0.0
+Shcity,Solar PV,22,0.0
+Thcity,Solar PV,22,0.0
+Bwcity,Solar PV,22,0.0
+Bycity,Solar PV,22,0.0
+Hecity,Solar PV,22,0.0
+Nicity,Solar PV,22,0.0
+Nwcity,Solar PV,22,0.0
+Rpcity,Solar PV,22,0.0
+Sncity,Solar PV,22,0.0
+Becity,Solar PV,23,0.0
+Bbcity,Solar PV,23,0.0
+Hbcity,Solar PV,23,0.0
+Hhcity,Solar PV,23,0.0
+Mvcity,Solar PV,23,0.0
+Slcity,Solar PV,23,0.0
+Stcity,Solar PV,23,0.0
+Shcity,Solar PV,23,0.0
+Thcity,Solar PV,23,0.0
+Bwcity,Solar PV,23,0.0
+Bycity,Solar PV,23,0.0
+Hecity,Solar PV,23,0.0
+Nicity,Solar PV,23,0.0
+Nwcity,Solar PV,23,0.0
+Rpcity,Solar PV,23,0.0
+Sncity,Solar PV,23,0.0
+Becity,Onshore,0,0.1289
+Bbcity,Onshore,0,0.1695
+Hbcity,Onshore,0,0.1048
+Hhcity,Onshore,0,0.0967
+Mvcity,Onshore,0,0.3442
+Slcity,Onshore,0,0.0401
+Stcity,Onshore,0,0.1953
+Shcity,Onshore,0,0.3453
+Thcity,Onshore,0,0.2143
+Bwcity,Onshore,0,0.106825
+Bycity,Onshore,0,0.111814285714286
+Hecity,Onshore,0,0.1076
+Nicity,Onshore,0,0.11485
+Nwcity,Onshore,0,0.1412
+Rpcity,Onshore,0,0.0446333333333333
+Sncity,Onshore,0,0.2165
+Becity,Onshore,1,0.1142
+Bbcity,Onshore,1,0.1516
+Hbcity,Onshore,1,0.1101
+Hhcity,Onshore,1,0.1033
+Mvcity,Onshore,1,0.3141
+Slcity,Onshore,1,0.047
+Stcity,Onshore,1,0.1697
+Shcity,Onshore,1,0.2945
+Thcity,Onshore,1,0.1918
+Bwcity,Onshore,1,0.1104
+Bycity,Onshore,1,0.0899428571428571
+Hecity,Onshore,1,0.092
+Nicity,Onshore,1,0.115375
+Nwcity,Onshore,1,0.1399
+Rpcity,Onshore,1,0.0352333333333333
+Sncity,Onshore,1,0.195566666666667
+Becity,Onshore,2,0.0826
+Bbcity,Onshore,2,0.1301
+Hbcity,Onshore,2,0.1044
+Hhcity,Onshore,2,0.1005
+Mvcity,Onshore,2,0.2816
+Slcity,Onshore,2,0.0628
+Stcity,Onshore,2,0.1494
+Shcity,Onshore,2,0.2599
+Thcity,Onshore,2,0.1808
+Bwcity,Onshore,2,0.12295
+Bycity,Onshore,2,0.0815571428571429
+Hecity,Onshore,2,0.0645666666666667
+Nicity,Onshore,2,0.1128
+Nwcity,Onshore,2,0.12526
+Rpcity,Onshore,2,0.0345666666666667
+Sncity,Onshore,2,0.171166666666667
+Becity,Onshore,3,0.0698
+Bbcity,Onshore,3,0.1197
+Hbcity,Onshore,3,0.0955
+Hhcity,Onshore,3,0.0869
+Mvcity,Onshore,3,0.2639
+Slcity,Onshore,3,0.0786
+Stcity,Onshore,3,0.1384
+Shcity,Onshore,3,0.2328
+Thcity,Onshore,3,0.1695
+Bwcity,Onshore,3,0.134125
+Bycity,Onshore,3,0.0852142857142857
+Hecity,Onshore,3,0.0422666666666667
+Nicity,Onshore,3,0.109775
+Nwcity,Onshore,3,0.09982
+Rpcity,Onshore,3,0.0425666666666667
+Sncity,Onshore,3,0.1513
+Becity,Onshore,4,0.0666
+Bbcity,Onshore,4,0.1108
+Hbcity,Onshore,4,0.099
+Hhcity,Onshore,4,0.0842
+Mvcity,Onshore,4,0.2519
+Slcity,Onshore,4,0.087
+Stcity,Onshore,4,0.1335
+Shcity,Onshore,4,0.2235
+Thcity,Onshore,4,0.1432
+Bwcity,Onshore,4,0.140325
+Bycity,Onshore,4,0.103528571428571
+Hecity,Onshore,4,0.0325666666666667
+Nicity,Onshore,4,0.112475
+Nwcity,Onshore,4,0.07188
+Rpcity,Onshore,4,0.0537666666666667
+Sncity,Onshore,4,0.137766666666667
+Becity,Onshore,5,0.0637
+Bbcity,Onshore,5,0.1034
+Hbcity,Onshore,5,0.1037
+Hhcity,Onshore,5,0.0858
+Mvcity,Onshore,5,0.2354
+Slcity,Onshore,5,0.0888
+Stcity,Onshore,5,0.1333
+Shcity,Onshore,5,0.219
+Thcity,Onshore,5,0.1157
+Bwcity,Onshore,5,0.149425
+Bycity,Onshore,5,0.136542857142857
+Hecity,Onshore,5,0.0340333333333333
+Nicity,Onshore,5,0.110575
+Nwcity,Onshore,5,0.05392
+Rpcity,Onshore,5,0.0668333333333333
+Sncity,Onshore,5,0.128666666666667
+Becity,Onshore,6,0.0648
+Bbcity,Onshore,6,0.0979
+Hbcity,Onshore,6,0.1159
+Hhcity,Onshore,6,0.0915
+Mvcity,Onshore,6,0.2175
+Slcity,Onshore,6,0.0991
+Stcity,Onshore,6,0.1344
+Shcity,Onshore,6,0.2151
+Thcity,Onshore,6,0.0993
+Bwcity,Onshore,6,0.155825
+Bycity,Onshore,6,0.169571428571429
+Hecity,Onshore,6,0.0487333333333333
+Nicity,Onshore,6,0.110325
+Nwcity,Onshore,6,0.04372
+Rpcity,Onshore,6,0.0781666666666667
+Sncity,Onshore,6,0.120066666666667
+Becity,Onshore,7,0.0587
+Bbcity,Onshore,7,0.0837
+Hbcity,Onshore,7,0.1231
+Hhcity,Onshore,7,0.0911
+Mvcity,Onshore,7,0.1954
+Slcity,Onshore,7,0.0774
+Stcity,Onshore,7,0.1205
+Shcity,Onshore,7,0.2161
+Thcity,Onshore,7,0.0904
+Bwcity,Onshore,7,0.13445
+Bycity,Onshore,7,0.158342857142857
+Hecity,Onshore,7,0.0688666666666667
+Nicity,Onshore,7,0.105025
+Nwcity,Onshore,7,0.03688
+Rpcity,Onshore,7,0.0778
+Sncity,Onshore,7,0.0959333333333333
+Becity,Onshore,8,0.0302
+Bbcity,Onshore,8,0.0503
+Hbcity,Onshore,8,0.1048
+Hhcity,Onshore,8,0.0691
+Mvcity,Onshore,8,0.1689
+Slcity,Onshore,8,0.0877
+Stcity,Onshore,8,0.0615
+Shcity,Onshore,8,0.2163
+Thcity,Onshore,8,0.0636
+Bwcity,Onshore,8,0.0988
+Bycity,Onshore,8,0.0844857142857143
+Hecity,Onshore,8,0.0832
+Nicity,Onshore,8,0.0796
+Nwcity,Onshore,8,0.02372
+Rpcity,Onshore,8,0.0850666666666667
+Sncity,Onshore,8,0.0451666666666667
+Becity,Onshore,9,0.0092
+Bbcity,Onshore,9,0.0228
+Hbcity,Onshore,9,0.1109
+Hhcity,Onshore,9,0.0673
+Mvcity,Onshore,9,0.1423
+Slcity,Onshore,9,0.0953
+Stcity,Onshore,9,0.0331
+Shcity,Onshore,9,0.2465
+Thcity,Onshore,9,0.0654
+Bwcity,Onshore,9,0.071225
+Bycity,Onshore,9,0.0736428571428571
+Hecity,Onshore,9,0.086
+Nicity,Onshore,9,0.078625
+Nwcity,Onshore,9,0.02134
+Rpcity,Onshore,9,0.0898333333333333
+Sncity,Onshore,9,0.0226666666666667
+Becity,Onshore,10,0.0072
+Bbcity,Onshore,10,0.0195
+Hbcity,Onshore,10,0.1213
+Hhcity,Onshore,10,0.0848
+Mvcity,Onshore,10,0.1189
+Slcity,Onshore,10,0.0847
+Stcity,Onshore,10,0.0404
+Shcity,Onshore,10,0.2802
+Thcity,Onshore,10,0.1033
+Bwcity,Onshore,10,0.085225
+Bycity,Onshore,10,0.107357142857143
+Hecity,Onshore,10,0.121166666666667
+Nicity,Onshore,10,0.09105
+Nwcity,Onshore,10,0.02854
+Rpcity,Onshore,10,0.0913333333333333
+Sncity,Onshore,10,0.0162666666666667
+Becity,Onshore,11,0.0125
+Bbcity,Onshore,11,0.0219
+Hbcity,Onshore,11,0.1263
+Hhcity,Onshore,11,0.0837
+Mvcity,Onshore,11,0.0983
+Slcity,Onshore,11,0.0828
+Stcity,Onshore,11,0.0393
+Shcity,Onshore,11,0.2989
+Thcity,Onshore,11,0.1022
+Bwcity,Onshore,11,0.08515
+Bycity,Onshore,11,0.0881428571428571
+Hecity,Onshore,11,0.135733333333333
+Nicity,Onshore,11,0.099025
+Nwcity,Onshore,11,0.03346
+Rpcity,Onshore,11,0.0771
+Sncity,Onshore,11,0.0152333333333333
+Becity,Onshore,12,0.0151
+Bbcity,Onshore,12,0.0237
+Hbcity,Onshore,12,0.1081
+Hhcity,Onshore,12,0.0621
+Mvcity,Onshore,12,0.0831
+Slcity,Onshore,12,0.0759
+Stcity,Onshore,12,0.0345
+Shcity,Onshore,12,0.3053
+Thcity,Onshore,12,0.0759
+Bwcity,Onshore,12,0.06545
+Bycity,Onshore,12,0.0622285714285714
+Hecity,Onshore,12,0.119833333333333
+Nicity,Onshore,12,0.0963
+Nwcity,Onshore,12,0.03462
+Rpcity,Onshore,12,0.0639333333333333
+Sncity,Onshore,12,0.0150666666666667
+Becity,Onshore,13,0.0145
+Bbcity,Onshore,13,0.0216
+Hbcity,Onshore,13,0.0737
+Hhcity,Onshore,13,0.0332
+Mvcity,Onshore,13,0.0668
+Slcity,Onshore,13,0.0469
+Stcity,Onshore,13,0.0277
+Shcity,Onshore,13,0.2848
+Thcity,Onshore,13,0.0494
+Bwcity,Onshore,13,0.0415
+Bycity,Onshore,13,0.0410428571428571
+Hecity,Onshore,13,0.0980666666666667
+Nicity,Onshore,13,0.084875
+Nwcity,Onshore,13,0.03234
+Rpcity,Onshore,13,0.0484333333333333
+Sncity,Onshore,13,0.0125333333333333
+Becity,Onshore,14,0.0205
+Bbcity,Onshore,14,0.0304
+Hbcity,Onshore,14,0.0551
+Hhcity,Onshore,14,0.025
+Mvcity,Onshore,14,0.0672
+Slcity,Onshore,14,0.016
+Stcity,Onshore,14,0.038
+Shcity,Onshore,14,0.2711
+Thcity,Onshore,14,0.0349
+Bwcity,Onshore,14,0.014775
+Bycity,Onshore,14,0.0269428571428571
+Hecity,Onshore,14,0.0645
+Nicity,Onshore,14,0.07775
+Nwcity,Onshore,14,0.02646
+Rpcity,Onshore,14,0.0253333333333333
+Sncity,Onshore,14,0.0135
+Becity,Onshore,15,0.0379
+Bbcity,Onshore,15,0.0592
+Hbcity,Onshore,15,0.083
+Hhcity,Onshore,15,0.0383
+Mvcity,Onshore,15,0.0903
+Slcity,Onshore,15,0.0036
+Stcity,Onshore,15,0.0804
+Shcity,Onshore,15,0.257
+Thcity,Onshore,15,0.0551
+Bwcity,Onshore,15,0.00795
+Bycity,Onshore,15,0.0322428571428571
+Hecity,Onshore,15,0.0683333333333333
+Nicity,Onshore,15,0.1071
+Nwcity,Onshore,15,0.0389
+Rpcity,Onshore,15,0.0141333333333333
+Sncity,Onshore,15,0.0354333333333333
+Becity,Onshore,16,0.071
+Bbcity,Onshore,16,0.1101
+Hbcity,Onshore,16,0.1684
+Hhcity,Onshore,16,0.0901
+Mvcity,Onshore,16,0.1273
+Slcity,Onshore,16,0.0178
+Stcity,Onshore,16,0.14
+Shcity,Onshore,16,0.2323
+Thcity,Onshore,16,0.1052
+Bwcity,Onshore,16,0.036575
+Bycity,Onshore,16,0.0516714285714286
+Hecity,Onshore,16,0.0899666666666667
+Nicity,Onshore,16,0.16425
+Nwcity,Onshore,16,0.06666
+Rpcity,Onshore,16,0.0151666666666667
+Sncity,Onshore,16,0.0889333333333333
+Becity,Onshore,17,0.1154
+Bbcity,Onshore,17,0.1654
+Hbcity,Onshore,17,0.2598
+Hhcity,Onshore,17,0.1699
+Mvcity,Onshore,17,0.1654
+Slcity,Onshore,17,0.0817
+Stcity,Onshore,17,0.1884
+Shcity,Onshore,17,0.2372
+Thcity,Onshore,17,0.1471
+Bwcity,Onshore,17,0.086875
+Bycity,Onshore,17,0.0800714285714286
+Hecity,Onshore,17,0.0965333333333333
+Nicity,Onshore,17,0.21505
+Nwcity,Onshore,17,0.09884
+Rpcity,Onshore,17,0.0403
+Sncity,Onshore,17,0.146
+Becity,Onshore,18,0.1428
+Bbcity,Onshore,18,0.1967
+Hbcity,Onshore,18,0.2827
+Hhcity,Onshore,18,0.2202
+Mvcity,Onshore,18,0.1908
+Slcity,Onshore,18,0.1752
+Stcity,Onshore,18,0.2087
+Shcity,Onshore,18,0.2638
+Thcity,Onshore,18,0.1663
+Bwcity,Onshore,18,0.139475
+Bycity,Onshore,18,0.118642857142857
+Hecity,Onshore,18,0.100533333333333
+Nicity,Onshore,18,0.22965
+Nwcity,Onshore,18,0.1378
+Rpcity,Onshore,18,0.097
+Sncity,Onshore,18,0.1812
+Becity,Onshore,19,0.1411
+Bbcity,Onshore,19,0.197
+Hbcity,Onshore,19,0.2712
+Hhcity,Onshore,19,0.2185
+Mvcity,Onshore,19,0.1942
+Slcity,Onshore,19,0.2609
+Stcity,Onshore,19,0.2017
+Shcity,Onshore,19,0.2878
+Thcity,Onshore,19,0.1681
+Bwcity,Onshore,19,0.19135
+Bycity,Onshore,19,0.178614285714286
+Hecity,Onshore,19,0.1095
+Nicity,Onshore,19,0.223675
+Nwcity,Onshore,19,0.1835
+Rpcity,Onshore,19,0.170766666666667
+Sncity,Onshore,19,0.199666666666667
+Becity,Onshore,20,0.1312
+Bbcity,Onshore,20,0.1842
+Hbcity,Onshore,20,0.2419
+Hhcity,Onshore,20,0.1994
+Mvcity,Onshore,20,0.1783
+Slcity,Onshore,20,0.2946
+Stcity,Onshore,20,0.1847
+Shcity,Onshore,20,0.3062
+Thcity,Onshore,20,0.1627
+Bwcity,Onshore,20,0.2304
+Bycity,Onshore,20,0.2445
+Hecity,Onshore,20,0.1401
+Nicity,Onshore,20,0.213425
+Nwcity,Onshore,20,0.2116
+Rpcity,Onshore,20,0.2152
+Sncity,Onshore,20,0.1977
+Becity,Onshore,21,0.1179
+Bbcity,Onshore,21,0.1615
+Hbcity,Onshore,21,0.2468
+Hhcity,Onshore,21,0.1903
+Mvcity,Onshore,21,0.1486
+Slcity,Onshore,21,0.3117
+Stcity,Onshore,21,0.1733
+Shcity,Onshore,21,0.3367
+Thcity,Onshore,21,0.1535
+Bwcity,Onshore,21,0.231175
+Bycity,Onshore,21,0.2816
+Hecity,Onshore,21,0.183866666666667
+Nicity,Onshore,21,0.21235
+Nwcity,Onshore,21,0.2139
+Rpcity,Onshore,21,0.238933333333333
+Sncity,Onshore,21,0.182533333333333
+Becity,Onshore,22,0.1135
+Bbcity,Onshore,22,0.151
+Hbcity,Onshore,22,0.2408
+Hhcity,Onshore,22,0.1862
+Mvcity,Onshore,22,0.1244
+Slcity,Onshore,22,0.313
+Stcity,Onshore,22,0.1713
+Shcity,Onshore,22,0.3523
+Thcity,Onshore,22,0.1472
+Bwcity,Onshore,22,0.237225
+Bycity,Onshore,22,0.269185714285714
+Hecity,Onshore,22,0.2022
+Nicity,Onshore,22,0.213825
+Nwcity,Onshore,22,0.21822
+Rpcity,Onshore,22,0.258266666666667
+Sncity,Onshore,22,0.180666666666667
+Becity,Onshore,23,0.1358
+Bbcity,Onshore,23,0.1588
+Hbcity,Onshore,23,0.2537
+Hhcity,Onshore,23,0.1872
+Mvcity,Onshore,23,0.1111
+Slcity,Onshore,23,0.2784
+Stcity,Onshore,23,0.1756
+Shcity,Onshore,23,0.3599
+Thcity,Onshore,23,0.1398
+Bwcity,Onshore,23,0.2866
+Bycity,Onshore,23,0.239171428571429
+Hecity,Onshore,23,0.196466666666667
+Nicity,Onshore,23,0.219975
+Nwcity,Onshore,23,0.22164
+Rpcity,Onshore,23,0.281533333333333
+Sncity,Onshore,23,0.190266666666667
+Sea,Offshore,0,0.1931
+Sea,Offshore,1,0.1821
+Sea,Offshore,2,0.1704
+Sea,Offshore,3,0.1585
+Sea,Offshore,4,0.1516
+Sea,Offshore,5,0.1464
+Sea,Offshore,6,0.1437
+Sea,Offshore,7,0.1243
+Sea,Offshore,8,0.0927
+Sea,Offshore,9,0.0782
+Sea,Offshore,10,0.0863
+Sea,Offshore,11,0.0865
+Sea,Offshore,12,0.0748
+Sea,Offshore,13,0.0547
+Sea,Offshore,14,0.0464
+Sea,Offshore,15,0.068
+Sea,Offshore,16,0.1192
+Sea,Offshore,17,0.1897
+Sea,Offshore,18,0.2483
+Sea,Offshore,19,0.2793
+Sea,Offshore,20,0.2794
+Sea,Offshore,21,0.2661
+Sea,Offshore,22,0.2542
+Sea,Offshore,23,0.2512
+Sea,Offshore,0,0.1931
+Sea,Offshore,1,0.1821
+Sea,Offshore,2,0.1704
+Sea,Offshore,3,0.1585
+Sea,Offshore,4,0.1516
+Sea,Offshore,5,0.1464
+Sea,Offshore,6,0.1437
+Sea,Offshore,7,0.1243
+Sea,Offshore,8,0.0927
+Sea,Offshore,9,0.0782
+Sea,Offshore,10,0.0863
+Sea,Offshore,11,0.0865
+Sea,Offshore,12,0.0748
+Sea,Offshore,13,0.0547
+Sea,Offshore,14,0.0464
+Sea,Offshore,15,0.068
+Sea,Offshore,16,0.1192
+Sea,Offshore,17,0.1897
+Sea,Offshore,18,0.2483
+Sea,Offshore,19,0.2793
+Sea,Offshore,20,0.2794
+Sea,Offshore,21,0.2661
+Sea,Offshore,22,0.2542
+Sea,Offshore,23,0.2512
+Sea,Offshore,0,0.1931
+Sea,Offshore,1,0.1821
+Sea,Offshore,2,0.1704
+Sea,Offshore,3,0.1585
+Sea,Offshore,4,0.1516
+Sea,Offshore,5,0.1464
+Sea,Offshore,6,0.1437
+Sea,Offshore,7,0.1243
+Sea,Offshore,8,0.0927
+Sea,Offshore,9,0.0782
+Sea,Offshore,10,0.0863
+Sea,Offshore,11,0.0865
+Sea,Offshore,12,0.0748
+Sea,Offshore,13,0.0547
+Sea,Offshore,14,0.0464
+Sea,Offshore,15,0.068
+Sea,Offshore,16,0.1192
+Sea,Offshore,17,0.1897
+Sea,Offshore,18,0.2483
+Sea,Offshore,19,0.2793
+Sea,Offshore,20,0.2794
+Sea,Offshore,21,0.2661
+Sea,Offshore,22,0.2542
+Sea,Offshore,23,0.2512

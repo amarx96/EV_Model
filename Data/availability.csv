@@ -1,0 +1,1585 @@
+﻿country,Plant,hour,value
+BBcity,Onshore,0,0.0815
+BBcity,Onshore,1,0.0851
+BBcity,Onshore,2,0.0896
+BBcity,Onshore,3,0.0924
+BBcity,Onshore,4,0.082
+BBcity,Onshore,5,0.0623
+BBcity,Onshore,6,0.0639
+BBcity,Onshore,7,0.0659
+BBcity,Onshore,8,0.069
+BBcity,Onshore,9,0.0724
+BBcity,Onshore,10,0.0729
+BBcity,Onshore,11,0.0728
+BBcity,Onshore,12,0.0733
+BBcity,Onshore,13,0.0733
+BBcity,Onshore,14,0.0711
+BBcity,Onshore,15,0.0653
+BBcity,Onshore,16,0.0576
+BBcity,Onshore,17,0.0471
+BBcity,Onshore,18,0.0422
+BBcity,Onshore,19,0.0446
+BBcity,Onshore,20,0.0476
+BBcity,Onshore,21,0.0519
+BBcity,Onshore,22,0.0573
+BBcity,Onshore,23,0.0617
+BBcity,Solar PV,0,0
+BBcity,Solar PV,1,0
+BBcity,Solar PV,2,0
+BBcity,Solar PV,3,0.002
+BBcity,Solar PV,4,0.063
+BBcity,Solar PV,5,0.167
+BBcity,Solar PV,6,0.286
+BBcity,Solar PV,7,0.407
+BBcity,Solar PV,8,0.494
+BBcity,Solar PV,9,0.554
+BBcity,Solar PV,10,0.568
+BBcity,Solar PV,11,0.427
+BBcity,Solar PV,12,0.25
+BBcity,Solar PV,13,0.145
+BBcity,Solar PV,14,0.127
+BBcity,Solar PV,15,0.122
+BBcity,Solar PV,16,0.079
+BBcity,Solar PV,17,0.05
+BBcity,Solar PV,18,0.004
+BBcity,Solar PV,19,0
+BBcity,Solar PV,20,0
+BBcity,Solar PV,21,0
+BBcity,Solar PV,22,0
+BBcity,Solar PV,23,0
+BBcountry,Onshore,0,0.0815
+BBcountry,Onshore,1,0.0851
+BBcountry,Onshore,2,0.0896
+BBcountry,Onshore,3,0.0924
+BBcountry,Onshore,4,0.082
+BBcountry,Onshore,5,0.0623
+BBcountry,Onshore,6,0.0639
+BBcountry,Onshore,7,0.0659
+BBcountry,Onshore,8,0.069
+BBcountry,Onshore,9,0.0724
+BBcountry,Onshore,10,0.0729
+BBcountry,Onshore,11,0.0728
+BBcountry,Onshore,12,0.0733
+BBcountry,Onshore,13,0.0733
+BBcountry,Onshore,14,0.0711
+BBcountry,Onshore,15,0.0653
+BBcountry,Onshore,16,0.0576
+BBcountry,Onshore,17,0.0471
+BBcountry,Onshore,18,0.0422
+BBcountry,Onshore,19,0.0446
+BBcountry,Onshore,20,0.0476
+BBcountry,Onshore,21,0.0519
+BBcountry,Onshore,22,0.0573
+BBcountry,Onshore,23,0.0617
+BBcountry,Solar PV,0,0
+BBcountry,Solar PV,1,0
+BBcountry,Solar PV,2,0
+BBcountry,Solar PV,3,0.002
+BBcountry,Solar PV,4,0.063
+BBcountry,Solar PV,5,0.167
+BBcountry,Solar PV,6,0.286
+BBcountry,Solar PV,7,0.407
+BBcountry,Solar PV,8,0.494
+BBcountry,Solar PV,9,0.554
+BBcountry,Solar PV,10,0.568
+BBcountry,Solar PV,11,0.427
+BBcountry,Solar PV,12,0.25
+BBcountry,Solar PV,13,0.145
+BBcountry,Solar PV,14,0.127
+BBcountry,Solar PV,15,0.122
+BBcountry,Solar PV,16,0.079
+BBcountry,Solar PV,17,0.05
+BBcountry,Solar PV,18,0.004
+BBcountry,Solar PV,19,0
+BBcountry,Solar PV,20,0
+BBcountry,Solar PV,21,0
+BBcountry,Solar PV,22,0
+BBcountry,Solar PV,23,0
+BEcity,Onshore,0,0.0265
+BEcity,Onshore,1,0.022
+BEcity,Onshore,2,0.0169
+BEcity,Onshore,3,0.0109
+BEcity,Onshore,4,0.002
+BEcity,Onshore,5,0
+BEcity,Onshore,6,0
+BEcity,Onshore,7,0.0004
+BEcity,Onshore,8,0.0019
+BEcity,Onshore,9,0.0008
+BEcity,Onshore,10,0.0003
+BEcity,Onshore,11,0.0025
+BEcity,Onshore,12,0.0118
+BEcity,Onshore,13,0.0206
+BEcity,Onshore,14,0.0141
+BEcity,Onshore,15,0.0053
+BEcity,Onshore,16,0.0019
+BEcity,Onshore,17,0.0014
+BEcity,Onshore,18,0.0024
+BEcity,Onshore,19,0.005
+BEcity,Onshore,20,0.0063
+BEcity,Onshore,21,0.0078
+BEcity,Onshore,22,0.0122
+BEcity,Onshore,23,0.0209
+BEcity,Solar PV,0,0
+BEcity,Solar PV,1,0
+BEcity,Solar PV,2,0
+BEcity,Solar PV,3,0.002
+BEcity,Solar PV,4,0.063
+BEcity,Solar PV,5,0.167
+BEcity,Solar PV,6,0.286
+BEcity,Solar PV,7,0.407
+BEcity,Solar PV,8,0.494
+BEcity,Solar PV,9,0.554
+BEcity,Solar PV,10,0.568
+BEcity,Solar PV,11,0.427
+BEcity,Solar PV,12,0.25
+BEcity,Solar PV,13,0.145
+BEcity,Solar PV,14,0.127
+BEcity,Solar PV,15,0.122
+BEcity,Solar PV,16,0.079
+BEcity,Solar PV,17,0.05
+BEcity,Solar PV,18,0.004
+BEcity,Solar PV,19,0
+BEcity,Solar PV,20,0
+BEcity,Solar PV,21,0
+BEcity,Solar PV,22,0
+BEcity,Solar PV,23,0
+BEcountry,Onshore,0,0.0265
+BEcountry,Onshore,1,0.022
+BEcountry,Onshore,2,0.0169
+BEcountry,Onshore,3,0.0109
+BEcountry,Onshore,4,0.002
+BEcountry,Onshore,5,0
+BEcountry,Onshore,6,0
+BEcountry,Onshore,7,0.0004
+BEcountry,Onshore,8,0.0019
+BEcountry,Onshore,9,0.0008
+BEcountry,Onshore,10,0.0003
+BEcountry,Onshore,11,0.0025
+BEcountry,Onshore,12,0.0118
+BEcountry,Onshore,13,0.0206
+BEcountry,Onshore,14,0.0141
+BEcountry,Onshore,15,0.0053
+BEcountry,Onshore,16,0.0019
+BEcountry,Onshore,17,0.0014
+BEcountry,Onshore,18,0.0024
+BEcountry,Onshore,19,0.005
+BEcountry,Onshore,20,0.0063
+BEcountry,Onshore,21,0.0078
+BEcountry,Onshore,22,0.0122
+BEcountry,Onshore,23,0.0209
+BEcountry,Solar PV,0,0
+BEcountry,Solar PV,1,0
+BEcountry,Solar PV,2,0
+BEcountry,Solar PV,3,0.002
+BEcountry,Solar PV,4,0.063
+BEcountry,Solar PV,5,0.167
+BEcountry,Solar PV,6,0.286
+BEcountry,Solar PV,7,0.407
+BEcountry,Solar PV,8,0.494
+BEcountry,Solar PV,9,0.554
+BEcountry,Solar PV,10,0.568
+BEcountry,Solar PV,11,0.427
+BEcountry,Solar PV,12,0.25
+BEcountry,Solar PV,13,0.145
+BEcountry,Solar PV,14,0.127
+BEcountry,Solar PV,15,0.122
+BEcountry,Solar PV,16,0.079
+BEcountry,Solar PV,17,0.05
+BEcountry,Solar PV,18,0.004
+BEcountry,Solar PV,19,0
+BEcountry,Solar PV,20,0
+BEcountry,Solar PV,21,0
+BEcountry,Solar PV,22,0
+BEcountry,Solar PV,23,0
+BWcity,Onshore,0,0.0807
+BWcity,Onshore,1,0.0588
+BWcity,Onshore,2,0.0503
+BWcity,Onshore,3,0.049225
+BWcity,Onshore,4,0.04525
+BWcity,Onshore,5,0.0275
+BWcity,Onshore,6,0.017625
+BWcity,Onshore,7,0.018725
+BWcity,Onshore,8,0.02375
+BWcity,Onshore,9,0.031675
+BWcity,Onshore,10,0.0407
+BWcity,Onshore,11,0.044075
+BWcity,Onshore,12,0.043325
+BWcity,Onshore,13,0.04225
+BWcity,Onshore,14,0.040275
+BWcity,Onshore,15,0.034175
+BWcity,Onshore,16,0.02685
+BWcity,Onshore,17,0.021225
+BWcity,Onshore,18,0.0224
+BWcity,Onshore,19,0.027775
+BWcity,Onshore,20,0.0305
+BWcity,Onshore,21,0.02905
+BWcity,Onshore,22,0.023825
+BWcity,Onshore,23,0.0201
+BWcity,Solar PV,0,0
+BWcity,Solar PV,1,0
+BWcity,Solar PV,2,0
+BWcity,Solar PV,3,0
+BWcity,Solar PV,4,0.01025
+BWcity,Solar PV,5,0.07125
+BWcity,Solar PV,6,0.1645
+BWcity,Solar PV,7,0.29075
+BWcity,Solar PV,8,0.44325
+BWcity,Solar PV,9,0.53675
+BWcity,Solar PV,10,0.5615
+BWcity,Solar PV,11,0.58725
+BWcity,Solar PV,12,0.599
+BWcity,Solar PV,13,0.56425
+BWcity,Solar PV,14,0.469
+BWcity,Solar PV,15,0.36
+BWcity,Solar PV,16,0.20825
+BWcity,Solar PV,17,0.08925
+BWcity,Solar PV,18,0.0125
+BWcity,Solar PV,19,0
+BWcity,Solar PV,20,0
+BWcity,Solar PV,21,0
+BWcity,Solar PV,22,0
+BWcity,Solar PV,23,0
+BWcountry,Onshore,0,0.0807
+BWcountry,Onshore,1,0.0588
+BWcountry,Onshore,2,0.0503
+BWcountry,Onshore,3,0.049225
+BWcountry,Onshore,4,0.04525
+BWcountry,Onshore,5,0.0275
+BWcountry,Onshore,6,0.017625
+BWcountry,Onshore,7,0.018725
+BWcountry,Onshore,8,0.02375
+BWcountry,Onshore,9,0.031675
+BWcountry,Onshore,10,0.0407
+BWcountry,Onshore,11,0.044075
+BWcountry,Onshore,12,0.043325
+BWcountry,Onshore,13,0.04225
+BWcountry,Onshore,14,0.040275
+BWcountry,Onshore,15,0.034175
+BWcountry,Onshore,16,0.02685
+BWcountry,Onshore,17,0.021225
+BWcountry,Onshore,18,0.0224
+BWcountry,Onshore,19,0.027775
+BWcountry,Onshore,20,0.0305
+BWcountry,Onshore,21,0.02905
+BWcountry,Onshore,22,0.023825
+BWcountry,Onshore,23,0.0201
+BWcountry,Solar PV,0,0
+BWcountry,Solar PV,1,0
+BWcountry,Solar PV,2,0
+BWcountry,Solar PV,3,0
+BWcountry,Solar PV,4,0.01025
+BWcountry,Solar PV,5,0.07125
+BWcountry,Solar PV,6,0.1645
+BWcountry,Solar PV,7,0.29075
+BWcountry,Solar PV,8,0.44325
+BWcountry,Solar PV,9,0.53675
+BWcountry,Solar PV,10,0.5615
+BWcountry,Solar PV,11,0.58725
+BWcountry,Solar PV,12,0.599
+BWcountry,Solar PV,13,0.56425
+BWcountry,Solar PV,14,0.469
+BWcountry,Solar PV,15,0.36
+BWcountry,Solar PV,16,0.20825
+BWcountry,Solar PV,17,0.08925
+BWcountry,Solar PV,18,0.0125
+BWcountry,Solar PV,19,0
+BWcountry,Solar PV,20,0
+BWcountry,Solar PV,21,0
+BWcountry,Solar PV,22,0
+BWcountry,Solar PV,23,0
+BYcity,Onshore,0,0.152257143
+BYcity,Onshore,1,0.164514286
+BYcity,Onshore,2,0.1585
+BYcity,Onshore,3,0.132328571
+BYcity,Onshore,4,0.078185714
+BYcity,Onshore,5,0.070657143
+BYcity,Onshore,6,0.079871429
+BYcity,Onshore,7,0.067057143
+BYcity,Onshore,8,0.056942857
+BYcity,Onshore,9,0.044985714
+BYcity,Onshore,10,0.036085714
+BYcity,Onshore,11,0.036514286
+BYcity,Onshore,12,0.042614286
+BYcity,Onshore,13,0.050228571
+BYcity,Onshore,14,0.054228571
+BYcity,Onshore,15,0.051614286
+BYcity,Onshore,16,0.044571429
+BYcity,Onshore,17,0.032771429
+BYcity,Onshore,18,0.026828571
+BYcity,Onshore,19,0.030214286
+BYcity,Onshore,20,0.035314286
+BYcity,Onshore,21,0.036571429
+BYcity,Onshore,22,0.033042857
+BYcity,Onshore,23,0.024928571
+BYcity,Solar PV,0,0
+BYcity,Solar PV,1,0
+BYcity,Solar PV,2,0
+BYcity,Solar PV,3,0
+BYcity,Solar PV,4,0.038571429
+BYcity,Solar PV,5,0.122571429
+BYcity,Solar PV,6,0.219285714
+BYcity,Solar PV,7,0.277142857
+BYcity,Solar PV,8,0.322857143
+BYcity,Solar PV,9,0.382857143
+BYcity,Solar PV,10,0.451285714
+BYcity,Solar PV,11,0.487285714
+BYcity,Solar PV,12,0.485285714
+BYcity,Solar PV,13,0.424428571
+BYcity,Solar PV,14,0.320142857
+BYcity,Solar PV,15,0.247571429
+BYcity,Solar PV,16,0.162857143
+BYcity,Solar PV,17,0.073
+BYcity,Solar PV,18,0.006
+BYcity,Solar PV,19,0
+BYcity,Solar PV,20,0
+BYcity,Solar PV,21,0
+BYcity,Solar PV,22,0
+BYcity,Solar PV,23,0
+BYcountry,Onshore,0,0.152257143
+BYcountry,Onshore,1,0.164514286
+BYcountry,Onshore,2,0.1585
+BYcountry,Onshore,3,0.132328571
+BYcountry,Onshore,4,0.078185714
+BYcountry,Onshore,5,0.070657143
+BYcountry,Onshore,6,0.079871429
+BYcountry,Onshore,7,0.067057143
+BYcountry,Onshore,8,0.056942857
+BYcountry,Onshore,9,0.044985714
+BYcountry,Onshore,10,0.036085714
+BYcountry,Onshore,11,0.036514286
+BYcountry,Onshore,12,0.042614286
+BYcountry,Onshore,13,0.050228571
+BYcountry,Onshore,14,0.054228571
+BYcountry,Onshore,15,0.051614286
+BYcountry,Onshore,16,0.044571429
+BYcountry,Onshore,17,0.032771429
+BYcountry,Onshore,18,0.026828571
+BYcountry,Onshore,19,0.030214286
+BYcountry,Onshore,20,0.035314286
+BYcountry,Onshore,21,0.036571429
+BYcountry,Onshore,22,0.033042857
+BYcountry,Onshore,23,0.024928571
+BYcountry,Solar PV,0,0
+BYcountry,Solar PV,1,0
+BYcountry,Solar PV,2,0
+BYcountry,Solar PV,3,0
+BYcountry,Solar PV,4,0.038571429
+BYcountry,Solar PV,5,0.122571429
+BYcountry,Solar PV,6,0.219285714
+BYcountry,Solar PV,7,0.277142857
+BYcountry,Solar PV,8,0.322857143
+BYcountry,Solar PV,9,0.382857143
+BYcountry,Solar PV,10,0.451285714
+BYcountry,Solar PV,11,0.487285714
+BYcountry,Solar PV,12,0.485285714
+BYcountry,Solar PV,13,0.424428571
+BYcountry,Solar PV,14,0.320142857
+BYcountry,Solar PV,15,0.247571429
+BYcountry,Solar PV,16,0.162857143
+BYcountry,Solar PV,17,0.073
+BYcountry,Solar PV,18,0.006
+BYcountry,Solar PV,19,0
+BYcountry,Solar PV,20,0
+BYcountry,Solar PV,21,0
+BYcountry,Solar PV,22,0
+BYcountry,Solar PV,23,0
+HBcity,Onshore,0,0.0558
+HBcity,Onshore,1,0.1011
+HBcity,Onshore,2,0.1601
+HBcity,Onshore,3,0.1186
+HBcity,Onshore,4,0.0471
+HBcity,Onshore,5,0.0218
+HBcity,Onshore,6,0.0314
+HBcity,Onshore,7,0.0585
+HBcity,Onshore,8,0.0757
+HBcity,Onshore,9,0.0949
+HBcity,Onshore,10,0.1054
+HBcity,Onshore,11,0.1127
+HBcity,Onshore,12,0.1243
+HBcity,Onshore,13,0.1332
+HBcity,Onshore,14,0.1418
+HBcity,Onshore,15,0.1529
+HBcity,Onshore,16,0.1638
+HBcity,Onshore,17,0.1325
+HBcity,Onshore,18,0.0847
+HBcity,Onshore,19,0.0517
+HBcity,Onshore,20,0.0289
+HBcity,Onshore,21,0.0235
+HBcity,Onshore,22,0.0297
+HBcity,Onshore,23,0.0442
+HBcity,Solar PV,0,0
+HBcity,Solar PV,1,0
+HBcity,Solar PV,2,0
+HBcity,Solar PV,3,0
+HBcity,Solar PV,4,0.02
+HBcity,Solar PV,5,0.11
+HBcity,Solar PV,6,0.254
+HBcity,Solar PV,7,0.398
+HBcity,Solar PV,8,0.515
+HBcity,Solar PV,9,0.565
+HBcity,Solar PV,10,0.597
+HBcity,Solar PV,11,0.593
+HBcity,Solar PV,12,0.548
+HBcity,Solar PV,13,0.464
+HBcity,Solar PV,14,0.334
+HBcity,Solar PV,15,0.199
+HBcity,Solar PV,16,0.095
+HBcity,Solar PV,17,0.037
+HBcity,Solar PV,18,0.005
+HBcity,Solar PV,19,0
+HBcity,Solar PV,20,0
+HBcity,Solar PV,21,0
+HBcity,Solar PV,22,0
+HBcity,Solar PV,23,0
+HBcountry,Onshore,0,0.0558
+HBcountry,Onshore,1,0.1011
+HBcountry,Onshore,2,0.1601
+HBcountry,Onshore,3,0.1186
+HBcountry,Onshore,4,0.0471
+HBcountry,Onshore,5,0.0218
+HBcountry,Onshore,6,0.0314
+HBcountry,Onshore,7,0.0585
+HBcountry,Onshore,8,0.0757
+HBcountry,Onshore,9,0.0949
+HBcountry,Onshore,10,0.1054
+HBcountry,Onshore,11,0.1127
+HBcountry,Onshore,12,0.1243
+HBcountry,Onshore,13,0.1332
+HBcountry,Onshore,14,0.1418
+HBcountry,Onshore,15,0.1529
+HBcountry,Onshore,16,0.1638
+HBcountry,Onshore,17,0.1325
+HBcountry,Onshore,18,0.0847
+HBcountry,Onshore,19,0.0517
+HBcountry,Onshore,20,0.0289
+HBcountry,Onshore,21,0.0235
+HBcountry,Onshore,22,0.0297
+HBcountry,Onshore,23,0.0442
+HBcountry,Solar PV,0,0
+HBcountry,Solar PV,1,0
+HBcountry,Solar PV,2,0
+HBcountry,Solar PV,3,0
+HBcountry,Solar PV,4,0.02
+HBcountry,Solar PV,5,0.11
+HBcountry,Solar PV,6,0.254
+HBcountry,Solar PV,7,0.398
+HBcountry,Solar PV,8,0.515
+HBcountry,Solar PV,9,0.565
+HBcountry,Solar PV,10,0.597
+HBcountry,Solar PV,11,0.593
+HBcountry,Solar PV,12,0.548
+HBcountry,Solar PV,13,0.464
+HBcountry,Solar PV,14,0.334
+HBcountry,Solar PV,15,0.199
+HBcountry,Solar PV,16,0.095
+HBcountry,Solar PV,17,0.037
+HBcountry,Solar PV,18,0.005
+HBcountry,Solar PV,19,0
+HBcountry,Solar PV,20,0
+HBcountry,Solar PV,21,0
+HBcountry,Solar PV,22,0
+HBcountry,Solar PV,23,0
+HEcity,Onshore,0,0.0348
+HEcity,Onshore,1,0.020866667
+HEcity,Onshore,2,0.025033333
+HEcity,Onshore,3,0.032033333
+HEcity,Onshore,4,0.025933333
+HEcity,Onshore,5,0.0179
+HEcity,Onshore,6,0.033233333
+HEcity,Onshore,7,0.031333333
+HEcity,Onshore,8,0.026866667
+HEcity,Onshore,9,0.036466667
+HEcity,Onshore,10,0.052366667
+HEcity,Onshore,11,0.061833333
+HEcity,Onshore,12,0.0649
+HEcity,Onshore,13,0.067433333
+HEcity,Onshore,14,0.071066667
+HEcity,Onshore,15,0.069266667
+HEcity,Onshore,16,0.061266667
+HEcity,Onshore,17,0.0483
+HEcity,Onshore,18,0.0437
+HEcity,Onshore,19,0.047366667
+HEcity,Onshore,20,0.0372
+HEcity,Onshore,21,0.025366667
+HEcity,Onshore,22,0.0119
+HEcity,Onshore,23,0.0037
+HEcity,Solar PV,0,0
+HEcity,Solar PV,1,0
+HEcity,Solar PV,2,0
+HEcity,Solar PV,3,0
+HEcity,Solar PV,4,0.017666667
+HEcity,Solar PV,5,0.095333333
+HEcity,Solar PV,6,0.213333333
+HEcity,Solar PV,7,0.328
+HEcity,Solar PV,8,0.461
+HEcity,Solar PV,9,0.527
+HEcity,Solar PV,10,0.534333333
+HEcity,Solar PV,11,0.565333333
+HEcity,Solar PV,12,0.580333333
+HEcity,Solar PV,13,0.546666667
+HEcity,Solar PV,14,0.461666667
+HEcity,Solar PV,15,0.344666667
+HEcity,Solar PV,16,0.211
+HEcity,Solar PV,17,0.085333333
+HEcity,Solar PV,18,0.012666667
+HEcity,Solar PV,19,0
+HEcity,Solar PV,20,0
+HEcity,Solar PV,21,0
+HEcity,Solar PV,22,0
+HEcity,Solar PV,23,0
+HEcountry,Onshore,0,0.0348
+HEcountry,Onshore,1,0.020866667
+HEcountry,Onshore,2,0.025033333
+HEcountry,Onshore,3,0.032033333
+HEcountry,Onshore,4,0.025933333
+HEcountry,Onshore,5,0.0179
+HEcountry,Onshore,6,0.033233333
+HEcountry,Onshore,7,0.031333333
+HEcountry,Onshore,8,0.026866667
+HEcountry,Onshore,9,0.036466667
+HEcountry,Onshore,10,0.052366667
+HEcountry,Onshore,11,0.061833333
+HEcountry,Onshore,12,0.0649
+HEcountry,Onshore,13,0.067433333
+HEcountry,Onshore,14,0.071066667
+HEcountry,Onshore,15,0.069266667
+HEcountry,Onshore,16,0.061266667
+HEcountry,Onshore,17,0.0483
+HEcountry,Onshore,18,0.0437
+HEcountry,Onshore,19,0.047366667
+HEcountry,Onshore,20,0.0372
+HEcountry,Onshore,21,0.025366667
+HEcountry,Onshore,22,0.0119
+HEcountry,Onshore,23,0.0037
+HEcountry,Solar PV,0,0
+HEcountry,Solar PV,1,0
+HEcountry,Solar PV,2,0
+HEcountry,Solar PV,3,0
+HEcountry,Solar PV,4,0.017666667
+HEcountry,Solar PV,5,0.095333333
+HEcountry,Solar PV,6,0.213333333
+HEcountry,Solar PV,7,0.328
+HEcountry,Solar PV,8,0.461
+HEcountry,Solar PV,9,0.527
+HEcountry,Solar PV,10,0.534333333
+HEcountry,Solar PV,11,0.565333333
+HEcountry,Solar PV,12,0.580333333
+HEcountry,Solar PV,13,0.546666667
+HEcountry,Solar PV,14,0.461666667
+HEcountry,Solar PV,15,0.344666667
+HEcountry,Solar PV,16,0.211
+HEcountry,Solar PV,17,0.085333333
+HEcountry,Solar PV,18,0.012666667
+HEcountry,Solar PV,19,0
+HEcountry,Solar PV,20,0
+HEcountry,Solar PV,21,0
+HEcountry,Solar PV,22,0
+HEcountry,Solar PV,23,0
+HHcity,Onshore,0,0.0885
+HHcity,Onshore,1,0.1022
+HHcity,Onshore,2,0.1093
+HHcity,Onshore,3,0.0879
+HHcity,Onshore,4,0.0406
+HHcity,Onshore,5,0.0054
+HHcity,Onshore,6,0
+HHcity,Onshore,7,0
+HHcity,Onshore,8,0.0001
+HHcity,Onshore,9,0.0011
+HHcity,Onshore,10,0.0044
+HHcity,Onshore,11,0.0074
+HHcity,Onshore,12,0.0087
+HHcity,Onshore,13,0.0134
+HHcity,Onshore,14,0.0206
+HHcity,Onshore,15,0.0232
+HHcity,Onshore,16,0.0285
+HHcity,Onshore,17,0.0372
+HHcity,Onshore,18,0.0564
+HHcity,Onshore,19,0.0822
+HHcity,Onshore,20,0.0855
+HHcity,Onshore,21,0.0765
+HHcity,Onshore,22,0.061
+HHcity,Onshore,23,0.04
+HHcity,Solar PV,0,0
+HHcity,Solar PV,1,0
+HHcity,Solar PV,2,0
+HHcity,Solar PV,3,0
+HHcity,Solar PV,4,0.011
+HHcity,Solar PV,5,0.033
+HHcity,Solar PV,6,0.108
+HHcity,Solar PV,7,0.246
+HHcity,Solar PV,8,0.365
+HHcity,Solar PV,9,0.393
+HHcity,Solar PV,10,0.487
+HHcity,Solar PV,11,0.492
+HHcity,Solar PV,12,0.397
+HHcity,Solar PV,13,0.341
+HHcity,Solar PV,14,0.238
+HHcity,Solar PV,15,0.221
+HHcity,Solar PV,16,0.148
+HHcity,Solar PV,17,0.075
+HHcity,Solar PV,18,0.015
+HHcity,Solar PV,19,0
+HHcity,Solar PV,20,0
+HHcity,Solar PV,21,0
+HHcity,Solar PV,22,0
+HHcity,Solar PV,23,0
+HHcountry,Onshore,0,0.0885
+HHcountry,Onshore,1,0.1022
+HHcountry,Onshore,2,0.1093
+HHcountry,Onshore,3,0.0879
+HHcountry,Onshore,4,0.0406
+HHcountry,Onshore,5,0.0054
+HHcountry,Onshore,6,0
+HHcountry,Onshore,7,0
+HHcountry,Onshore,8,0.0001
+HHcountry,Onshore,9,0.0011
+HHcountry,Onshore,10,0.0044
+HHcountry,Onshore,11,0.0074
+HHcountry,Onshore,12,0.0087
+HHcountry,Onshore,13,0.0134
+HHcountry,Onshore,14,0.0206
+HHcountry,Onshore,15,0.0232
+HHcountry,Onshore,16,0.0285
+HHcountry,Onshore,17,0.0372
+HHcountry,Onshore,18,0.0564
+HHcountry,Onshore,19,0.0822
+HHcountry,Onshore,20,0.0855
+HHcountry,Onshore,21,0.0765
+HHcountry,Onshore,22,0.061
+HHcountry,Onshore,23,0.04
+HHcountry,Solar PV,0,0
+HHcountry,Solar PV,1,0
+HHcountry,Solar PV,2,0
+HHcountry,Solar PV,3,0
+HHcountry,Solar PV,4,0.011
+HHcountry,Solar PV,5,0.033
+HHcountry,Solar PV,6,0.108
+HHcountry,Solar PV,7,0.246
+HHcountry,Solar PV,8,0.365
+HHcountry,Solar PV,9,0.393
+HHcountry,Solar PV,10,0.487
+HHcountry,Solar PV,11,0.492
+HHcountry,Solar PV,12,0.397
+HHcountry,Solar PV,13,0.341
+HHcountry,Solar PV,14,0.238
+HHcountry,Solar PV,15,0.221
+HHcountry,Solar PV,16,0.148
+HHcountry,Solar PV,17,0.075
+HHcountry,Solar PV,18,0.015
+HHcountry,Solar PV,19,0
+HHcountry,Solar PV,20,0
+HHcountry,Solar PV,21,0
+HHcountry,Solar PV,22,0
+HHcountry,Solar PV,23,0
+MVcity,Onshore,0,0.1854
+MVcity,Onshore,1,0.1897
+MVcity,Onshore,2,0.1936
+MVcity,Onshore,3,0.1822
+MVcity,Onshore,4,0.1412
+MVcity,Onshore,5,0.1087
+MVcity,Onshore,6,0.0823
+MVcity,Onshore,7,0.063
+MVcity,Onshore,8,0.0548
+MVcity,Onshore,9,0.0523
+MVcity,Onshore,10,0.0515
+MVcity,Onshore,11,0.0514
+MVcity,Onshore,12,0.0503
+MVcity,Onshore,13,0.0483
+MVcity,Onshore,14,0.0488
+MVcity,Onshore,15,0.0541
+MVcity,Onshore,16,0.0598
+MVcity,Onshore,17,0.0664
+MVcity,Onshore,18,0.0735
+MVcity,Onshore,19,0.0802
+MVcity,Onshore,20,0.0827
+MVcity,Onshore,21,0.0793
+MVcity,Onshore,22,0.0735
+MVcity,Onshore,23,0.0642
+MVcity,Solar PV,0,0
+MVcity,Solar PV,1,0
+MVcity,Solar PV,2,0
+MVcity,Solar PV,3,0.002
+MVcity,Solar PV,4,0.052
+MVcity,Solar PV,5,0.135
+MVcity,Solar PV,6,0.223
+MVcity,Solar PV,7,0.31
+MVcity,Solar PV,8,0.387
+MVcity,Solar PV,9,0.424
+MVcity,Solar PV,10,0.466
+MVcity,Solar PV,11,0.435
+MVcity,Solar PV,12,0.318
+MVcity,Solar PV,13,0.203
+MVcity,Solar PV,14,0.125
+MVcity,Solar PV,15,0.081
+MVcity,Solar PV,16,0.054
+MVcity,Solar PV,17,0.025
+MVcity,Solar PV,18,0.002
+MVcity,Solar PV,19,0
+MVcity,Solar PV,20,0
+MVcity,Solar PV,21,0
+MVcity,Solar PV,22,0
+MVcity,Solar PV,23,0
+MVcountry,Onshore,0,0.1854
+MVcountry,Onshore,1,0.1897
+MVcountry,Onshore,2,0.1936
+MVcountry,Onshore,3,0.1822
+MVcountry,Onshore,4,0.1412
+MVcountry,Onshore,5,0.1087
+MVcountry,Onshore,6,0.0823
+MVcountry,Onshore,7,0.063
+MVcountry,Onshore,8,0.0548
+MVcountry,Onshore,9,0.0523
+MVcountry,Onshore,10,0.0515
+MVcountry,Onshore,11,0.0514
+MVcountry,Onshore,12,0.0503
+MVcountry,Onshore,13,0.0483
+MVcountry,Onshore,14,0.0488
+MVcountry,Onshore,15,0.0541
+MVcountry,Onshore,16,0.0598
+MVcountry,Onshore,17,0.0664
+MVcountry,Onshore,18,0.0735
+MVcountry,Onshore,19,0.0802
+MVcountry,Onshore,20,0.0827
+MVcountry,Onshore,21,0.0793
+MVcountry,Onshore,22,0.0735
+MVcountry,Onshore,23,0.0642
+MVcountry,Solar PV,0,0
+MVcountry,Solar PV,1,0
+MVcountry,Solar PV,2,0
+MVcountry,Solar PV,3,0.002
+MVcountry,Solar PV,4,0.052
+MVcountry,Solar PV,5,0.135
+MVcountry,Solar PV,6,0.223
+MVcountry,Solar PV,7,0.31
+MVcountry,Solar PV,8,0.387
+MVcountry,Solar PV,9,0.424
+MVcountry,Solar PV,10,0.466
+MVcountry,Solar PV,11,0.435
+MVcountry,Solar PV,12,0.318
+MVcountry,Solar PV,13,0.203
+MVcountry,Solar PV,14,0.125
+MVcountry,Solar PV,15,0.081
+MVcountry,Solar PV,16,0.054
+MVcountry,Solar PV,17,0.025
+MVcountry,Solar PV,18,0.002
+MVcountry,Solar PV,19,0
+MVcountry,Solar PV,20,0
+MVcountry,Solar PV,21,0
+MVcountry,Solar PV,22,0
+MVcountry,Solar PV,23,0
+NIcity,Onshore,0,0.062675
+NIcity,Onshore,1,0.093075
+NIcity,Onshore,2,0.1039
+NIcity,Onshore,3,0.085
+NIcity,Onshore,4,0.05885
+NIcity,Onshore,5,0.03945
+NIcity,Onshore,6,0.044325
+NIcity,Onshore,7,0.058275
+NIcity,Onshore,8,0.0713
+NIcity,Onshore,9,0.081525
+NIcity,Onshore,10,0.0818
+NIcity,Onshore,11,0.082525
+NIcity,Onshore,12,0.08705
+NIcity,Onshore,13,0.094325
+NIcity,Onshore,14,0.099075
+NIcity,Onshore,15,0.097725
+NIcity,Onshore,16,0.091175
+NIcity,Onshore,17,0.073075
+NIcity,Onshore,18,0.064025
+NIcity,Onshore,19,0.067525
+NIcity,Onshore,20,0.0697
+NIcity,Onshore,21,0.067675
+NIcity,Onshore,22,0.064625
+NIcity,Onshore,23,0.06315
+NIcity,Solar PV,0,0
+NIcity,Solar PV,1,0
+NIcity,Solar PV,2,0
+NIcity,Solar PV,3,0
+NIcity,Solar PV,4,0.01975
+NIcity,Solar PV,5,0.0875
+NIcity,Solar PV,6,0.18575
+NIcity,Solar PV,7,0.301
+NIcity,Solar PV,8,0.3995
+NIcity,Solar PV,9,0.45925
+NIcity,Solar PV,10,0.48025
+NIcity,Solar PV,11,0.4715
+NIcity,Solar PV,12,0.449
+NIcity,Solar PV,13,0.40375
+NIcity,Solar PV,14,0.31225
+NIcity,Solar PV,15,0.227
+NIcity,Solar PV,16,0.1235
+NIcity,Solar PV,17,0.0565
+NIcity,Solar PV,18,0.00925
+NIcity,Solar PV,19,0
+NIcity,Solar PV,20,0
+NIcity,Solar PV,21,0
+NIcity,Solar PV,22,0
+NIcity,Solar PV,23,0
+NIcountry,Onshore,0,0.0717
+NIcountry,Onshore,1,0.0875
+NIcountry,Onshore,2,0.1059
+NIcountry,Onshore,3,0.1101
+NIcountry,Onshore,4,0.1098
+NIcountry,Onshore,5,0.1013
+NIcountry,Onshore,6,0.1236
+NIcountry,Onshore,7,0.1506
+NIcountry,Onshore,8,0.1738
+NIcountry,Onshore,9,0.1946
+NIcountry,Onshore,10,0.1982
+NIcountry,Onshore,11,0.1981
+NIcountry,Onshore,12,0.2058
+NIcountry,Onshore,13,0.2195
+NIcountry,Onshore,14,0.2272
+NIcountry,Onshore,15,0.21
+NIcountry,Onshore,16,0.1696
+NIcountry,Onshore,17,0.1152
+NIcountry,Onshore,18,0.0831
+NIcountry,Onshore,19,0.0821
+NIcountry,Onshore,20,0.1019
+NIcountry,Onshore,21,0.131
+NIcountry,Onshore,22,0.158
+NIcountry,Onshore,23,0.1727
+NIcountry,Solar PV,0,0
+NIcountry,Solar PV,1,0
+NIcountry,Solar PV,2,0
+NIcountry,Solar PV,3,0
+NIcountry,Solar PV,4,0.01975
+NIcountry,Solar PV,5,0.0875
+NIcountry,Solar PV,6,0.18575
+NIcountry,Solar PV,7,0.301
+NIcountry,Solar PV,8,0.3995
+NIcountry,Solar PV,9,0.45925
+NIcountry,Solar PV,10,0.48025
+NIcountry,Solar PV,11,0.4715
+NIcountry,Solar PV,12,0.449
+NIcountry,Solar PV,13,0.40375
+NIcountry,Solar PV,14,0.31225
+NIcountry,Solar PV,15,0.227
+NIcountry,Solar PV,16,0.1235
+NIcountry,Solar PV,17,0.0565
+NIcountry,Solar PV,18,0.00925
+NIcountry,Solar PV,19,0
+NIcountry,Solar PV,20,0
+NIcountry,Solar PV,21,0
+NIcountry,Solar PV,22,0
+NIcountry,Solar PV,23,0
+NWcity,Onshore,0,0.11444
+NWcity,Onshore,1,0.10046
+NWcity,Onshore,2,0.09704
+NWcity,Onshore,3,0.10408
+NWcity,Onshore,4,0.09684
+NWcity,Onshore,5,0.06438
+NWcity,Onshore,6,0.11474
+NWcity,Onshore,7,0.14176
+NWcity,Onshore,8,0.15166
+NWcity,Onshore,9,0.15394
+NWcity,Onshore,10,0.15314
+NWcity,Onshore,11,0.15216
+NWcity,Onshore,12,0.15146
+NWcity,Onshore,13,0.14694
+NWcity,Onshore,14,0.13648
+NWcity,Onshore,15,0.1203
+NWcity,Onshore,16,0.09888
+NWcity,Onshore,17,0.06968
+NWcity,Onshore,18,0.04456
+NWcity,Onshore,19,0.03826
+NWcity,Onshore,20,0.03558
+NWcity,Onshore,21,0.03882
+NWcity,Onshore,22,0.0442
+NWcity,Onshore,23,0.05044
+NWcity,Solar PV,0,0
+NWcity,Solar PV,1,0
+NWcity,Solar PV,2,0
+NWcity,Solar PV,3,0
+NWcity,Solar PV,4,0.0306
+NWcity,Solar PV,5,0.1232
+NWcity,Solar PV,6,0.2326
+NWcity,Solar PV,7,0.3474
+NWcity,Solar PV,8,0.4444
+NWcity,Solar PV,9,0.5002
+NWcity,Solar PV,10,0.5016
+NWcity,Solar PV,11,0.4904
+NWcity,Solar PV,12,0.4494
+NWcity,Solar PV,13,0.422
+NWcity,Solar PV,14,0.339
+NWcity,Solar PV,15,0.2568
+NWcity,Solar PV,16,0.1584
+NWcity,Solar PV,17,0.0828
+NWcity,Solar PV,18,0.0176
+NWcity,Solar PV,19,0
+NWcity,Solar PV,20,0
+NWcity,Solar PV,21,0
+NWcity,Solar PV,22,0
+NWcity,Solar PV,23,0
+NWcountry,Onshore,0,0.1033
+NWcountry,Onshore,1,0.0874
+NWcountry,Onshore,2,0.0927
+NWcountry,Onshore,3,0.1101
+NWcountry,Onshore,4,0.1025
+NWcountry,Onshore,5,0.0555
+NWcountry,Onshore,6,0.1044
+NWcountry,Onshore,7,0.1482
+NWcountry,Onshore,8,0.1795
+NWcountry,Onshore,9,0.1975
+NWcountry,Onshore,10,0.2073
+NWcountry,Onshore,11,0.2143
+NWcountry,Onshore,12,0.2148
+NWcountry,Onshore,13,0.1975
+NWcountry,Onshore,14,0.1681
+NWcountry,Onshore,15,0.127
+NWcountry,Onshore,16,0.0814
+NWcountry,Onshore,17,0.0406
+NWcountry,Onshore,18,0.0159
+NWcountry,Onshore,19,0.014
+NWcountry,Onshore,20,0.0215
+NWcountry,Onshore,21,0.0371
+NWcountry,Onshore,22,0.0561
+NWcountry,Onshore,23,0.0732
+NWcountry,Solar PV,0,0
+NWcountry,Solar PV,1,0
+NWcountry,Solar PV,2,0
+NWcountry,Solar PV,3,0
+NWcountry,Solar PV,4,0.0306
+NWcountry,Solar PV,5,0.1232
+NWcountry,Solar PV,6,0.2326
+NWcountry,Solar PV,7,0.3474
+NWcountry,Solar PV,8,0.4444
+NWcountry,Solar PV,9,0.5002
+NWcountry,Solar PV,10,0.5016
+NWcountry,Solar PV,11,0.4904
+NWcountry,Solar PV,12,0.4494
+NWcountry,Solar PV,13,0.422
+NWcountry,Solar PV,14,0.339
+NWcountry,Solar PV,15,0.2568
+NWcountry,Solar PV,16,0.1584
+NWcountry,Solar PV,17,0.0828
+NWcountry,Solar PV,18,0.0176
+NWcountry,Solar PV,19,0
+NWcountry,Solar PV,20,0
+NWcountry,Solar PV,21,0
+NWcountry,Solar PV,22,0
+NWcountry,Solar PV,23,0
+Offshore,Offshore,0,0.1037
+Offshore,Offshore,1,0.107
+Offshore,Offshore,2,0.1183
+Offshore,Offshore,3,0.1138
+Offshore,Offshore,4,0.0755
+Offshore,Offshore,5,0.0481
+Offshore,Offshore,6,0.057
+Offshore,Offshore,7,0.0662
+Offshore,Offshore,8,0.0684
+Offshore,Offshore,9,0.0665
+Offshore,Offshore,10,0.0657
+Offshore,Offshore,11,0.0689
+Offshore,Offshore,12,0.0771
+Offshore,Offshore,13,0.0797
+Offshore,Offshore,14,0.0728
+Offshore,Offshore,15,0.0648
+Offshore,Offshore,16,0.0592
+Offshore,Offshore,17,0.0508
+Offshore,Offshore,18,0.0444
+Offshore,Offshore,19,0.0451
+Offshore,Offshore,20,0.046
+Offshore,Offshore,21,0.0505
+Offshore,Offshore,22,0.0591
+Offshore,Offshore,23,0.063
+Offshorecountry,Offshore,0,0.1037
+Offshorecountry,Offshore,1,0.107
+Offshorecountry,Offshore,2,0.1183
+Offshorecountry,Offshore,3,0.1138
+Offshorecountry,Offshore,4,0.0755
+Offshorecountry,Offshore,5,0.0481
+Offshorecountry,Offshore,6,0.057
+Offshorecountry,Offshore,7,0.0662
+Offshorecountry,Offshore,8,0.0684
+Offshorecountry,Offshore,9,0.0665
+Offshorecountry,Offshore,10,0.0657
+Offshorecountry,Offshore,11,0.0689
+Offshorecountry,Offshore,12,0.0771
+Offshorecountry,Offshore,13,0.0797
+Offshorecountry,Offshore,14,0.0728
+Offshorecountry,Offshore,15,0.0648
+Offshorecountry,Offshore,16,0.0592
+Offshorecountry,Offshore,17,0.0508
+Offshorecountry,Offshore,18,0.0444
+Offshorecountry,Offshore,19,0.0451
+Offshorecountry,Offshore,20,0.046
+Offshorecountry,Offshore,21,0.0505
+Offshorecountry,Offshore,22,0.0591
+Offshorecountry,Offshore,23,0.063
+RPcity,Onshore,0,0.0767
+RPcity,Onshore,1,0.082066667
+RPcity,Onshore,2,0.082166667
+RPcity,Onshore,3,0.089433333
+RPcity,Onshore,4,0.085266667
+RPcity,Onshore,5,0.062933333
+RPcity,Onshore,6,0.098566667
+RPcity,Onshore,7,0.119766667
+RPcity,Onshore,8,0.1354
+RPcity,Onshore,9,0.142933333
+RPcity,Onshore,10,0.137466667
+RPcity,Onshore,11,0.126233333
+RPcity,Onshore,12,0.117333333
+RPcity,Onshore,13,0.111366667
+RPcity,Onshore,14,0.1035
+RPcity,Onshore,15,0.095533333
+RPcity,Onshore,16,0.0881
+RPcity,Onshore,17,0.078666667
+RPcity,Onshore,18,0.069133333
+RPcity,Onshore,19,0.068
+RPcity,Onshore,20,0.060166667
+RPcity,Onshore,21,0.047166667
+RPcity,Onshore,22,0.0326
+RPcity,Onshore,23,0.0208
+RPcity,Solar PV,0,0
+RPcity,Solar PV,1,0
+RPcity,Solar PV,2,0
+RPcity,Solar PV,3,0
+RPcity,Solar PV,4,0.019
+RPcity,Solar PV,5,0.102333333
+RPcity,Solar PV,6,0.218666667
+RPcity,Solar PV,7,0.366333333
+RPcity,Solar PV,8,0.493
+RPcity,Solar PV,9,0.580333333
+RPcity,Solar PV,10,0.626666667
+RPcity,Solar PV,11,0.646333333
+RPcity,Solar PV,12,0.636
+RPcity,Solar PV,13,0.583333333
+RPcity,Solar PV,14,0.482666667
+RPcity,Solar PV,15,0.365666667
+RPcity,Solar PV,16,0.222
+RPcity,Solar PV,17,0.101
+RPcity,Solar PV,18,0.018
+RPcity,Solar PV,19,0
+RPcity,Solar PV,20,0
+RPcity,Solar PV,21,0
+RPcity,Solar PV,22,0
+RPcity,Solar PV,23,0
+RPcountry,Onshore,0,0.0767
+RPcountry,Onshore,1,0.082066667
+RPcountry,Onshore,2,0.082166667
+RPcountry,Onshore,3,0.089433333
+RPcountry,Onshore,4,0.085266667
+RPcountry,Onshore,5,0.062933333
+RPcountry,Onshore,6,0.098566667
+RPcountry,Onshore,7,0.119766667
+RPcountry,Onshore,8,0.1354
+RPcountry,Onshore,9,0.142933333
+RPcountry,Onshore,10,0.137466667
+RPcountry,Onshore,11,0.126233333
+RPcountry,Onshore,12,0.117333333
+RPcountry,Onshore,13,0.111366667
+RPcountry,Onshore,14,0.1035
+RPcountry,Onshore,15,0.095533333
+RPcountry,Onshore,16,0.0881
+RPcountry,Onshore,17,0.078666667
+RPcountry,Onshore,18,0.069133333
+RPcountry,Onshore,19,0.068
+RPcountry,Onshore,20,0.060166667
+RPcountry,Onshore,21,0.047166667
+RPcountry,Onshore,22,0.0326
+RPcountry,Onshore,23,0.0208
+RPcountry,Solar PV,0,0
+RPcountry,Solar PV,1,0
+RPcountry,Solar PV,2,0
+RPcountry,Solar PV,3,0
+RPcountry,Solar PV,4,0.019
+RPcountry,Solar PV,5,0.102333333
+RPcountry,Solar PV,6,0.218666667
+RPcountry,Solar PV,7,0.366333333
+RPcountry,Solar PV,8,0.493
+RPcountry,Solar PV,9,0.580333333
+RPcountry,Solar PV,10,0.626666667
+RPcountry,Solar PV,11,0.646333333
+RPcountry,Solar PV,12,0.636
+RPcountry,Solar PV,13,0.583333333
+RPcountry,Solar PV,14,0.482666667
+RPcountry,Solar PV,15,0.365666667
+RPcountry,Solar PV,16,0.222
+RPcountry,Solar PV,17,0.101
+RPcountry,Solar PV,18,0.018
+RPcountry,Solar PV,19,0
+RPcountry,Solar PV,20,0
+RPcountry,Solar PV,21,0
+RPcountry,Solar PV,22,0
+RPcountry,Solar PV,23,0
+SHcity,Onshore,0,0.1359
+SHcity,Onshore,1,0.1392
+SHcity,Onshore,2,0.1427
+SHcity,Onshore,3,0.1645
+SHcity,Onshore,4,0.1656
+SHcity,Onshore,5,0.1136
+SHcity,Onshore,6,0.0749
+SHcity,Onshore,7,0.059
+SHcity,Onshore,8,0.0566
+SHcity,Onshore,9,0.0542
+SHcity,Onshore,10,0.0492
+SHcity,Onshore,11,0.0405
+SHcity,Onshore,12,0.0299
+SHcity,Onshore,13,0.0231
+SHcity,Onshore,14,0.0194
+SHcity,Onshore,15,0.0166
+SHcity,Onshore,16,0.0218
+SHcity,Onshore,17,0.034
+SHcity,Onshore,18,0.0487
+SHcity,Onshore,19,0.0603
+SHcity,Onshore,20,0.0694
+SHcity,Onshore,21,0.0819
+SHcity,Onshore,22,0.0969
+SHcity,Onshore,23,0.1038
+SHcity,Solar PV,0,0
+SHcity,Solar PV,1,0
+SHcity,Solar PV,2,0
+SHcity,Solar PV,3,0
+SHcity,Solar PV,4,0.023
+SHcity,Solar PV,5,0.053
+SHcity,Solar PV,6,0.091
+SHcity,Solar PV,7,0.195
+SHcity,Solar PV,8,0.332
+SHcity,Solar PV,9,0.408
+SHcity,Solar PV,10,0.436
+SHcity,Solar PV,11,0.463
+SHcity,Solar PV,12,0.425
+SHcity,Solar PV,13,0.34
+SHcity,Solar PV,14,0.226
+SHcity,Solar PV,15,0.169
+SHcity,Solar PV,16,0.113
+SHcity,Solar PV,17,0.056
+SHcity,Solar PV,18,0.014
+SHcity,Solar PV,19,0
+SHcity,Solar PV,20,0
+SHcity,Solar PV,21,0
+SHcity,Solar PV,22,0
+SHcity,Solar PV,23,0
+SHcountry,Onshore,0,0.1359
+SHcountry,Onshore,1,0.1392
+SHcountry,Onshore,2,0.1427
+SHcountry,Onshore,3,0.1645
+SHcountry,Onshore,4,0.1656
+SHcountry,Onshore,5,0.1136
+SHcountry,Onshore,6,0.0749
+SHcountry,Onshore,7,0.059
+SHcountry,Onshore,8,0.0566
+SHcountry,Onshore,9,0.0542
+SHcountry,Onshore,10,0.0492
+SHcountry,Onshore,11,0.0405
+SHcountry,Onshore,12,0.0299
+SHcountry,Onshore,13,0.0231
+SHcountry,Onshore,14,0.0194
+SHcountry,Onshore,15,0.0166
+SHcountry,Onshore,16,0.0218
+SHcountry,Onshore,17,0.034
+SHcountry,Onshore,18,0.0487
+SHcountry,Onshore,19,0.0603
+SHcountry,Onshore,20,0.0694
+SHcountry,Onshore,21,0.0819
+SHcountry,Onshore,22,0.0969
+SHcountry,Onshore,23,0.1038
+SHcountry,Solar PV,0,0
+SHcountry,Solar PV,1,0
+SHcountry,Solar PV,2,0
+SHcountry,Solar PV,3,0
+SHcountry,Solar PV,4,0.023
+SHcountry,Solar PV,5,0.053
+SHcountry,Solar PV,6,0.091
+SHcountry,Solar PV,7,0.195
+SHcountry,Solar PV,8,0.332
+SHcountry,Solar PV,9,0.408
+SHcountry,Solar PV,10,0.436
+SHcountry,Solar PV,11,0.463
+SHcountry,Solar PV,12,0.425
+SHcountry,Solar PV,13,0.34
+SHcountry,Solar PV,14,0.226
+SHcountry,Solar PV,15,0.169
+SHcountry,Solar PV,16,0.113
+SHcountry,Solar PV,17,0.056
+SHcountry,Solar PV,18,0.014
+SHcountry,Solar PV,19,0
+SHcountry,Solar PV,20,0
+SHcountry,Solar PV,21,0
+SHcountry,Solar PV,22,0
+SHcountry,Solar PV,23,0
+SLcity,Onshore,0,0.0843
+SLcity,Onshore,1,0.0801
+SLcity,Onshore,2,0.0875
+SLcity,Onshore,3,0.1104
+SLcity,Onshore,4,0.0994
+SLcity,Onshore,5,0.0667
+SLcity,Onshore,6,0.1189
+SLcity,Onshore,7,0.154
+SLcity,Onshore,8,0.1793
+SLcity,Onshore,9,0.1757
+SLcity,Onshore,10,0.1581
+SLcity,Onshore,11,0.1419
+SLcity,Onshore,12,0.1303
+SLcity,Onshore,13,0.1216
+SLcity,Onshore,14,0.1111
+SLcity,Onshore,15,0.1018
+SLcity,Onshore,16,0.0953
+SLcity,Onshore,17,0.0864
+SLcity,Onshore,18,0.075
+SLcity,Onshore,19,0.071
+SLcity,Onshore,20,0.0578
+SLcity,Onshore,21,0.0405
+SLcity,Onshore,22,0.0231
+SLcity,Onshore,23,0.0097
+SLcity,Solar PV,0,0
+SLcity,Solar PV,1,0
+SLcity,Solar PV,2,0
+SLcity,Solar PV,3,0
+SLcity,Solar PV,4,0.017
+SLcity,Solar PV,5,0.099
+SLcity,Solar PV,6,0.233
+SLcity,Solar PV,7,0.377
+SLcity,Solar PV,8,0.505
+SLcity,Solar PV,9,0.589
+SLcity,Solar PV,10,0.654
+SLcity,Solar PV,11,0.674
+SLcity,Solar PV,12,0.657
+SLcity,Solar PV,13,0.604
+SLcity,Solar PV,14,0.512
+SLcity,Solar PV,15,0.383
+SLcity,Solar PV,16,0.242
+SLcity,Solar PV,17,0.106
+SLcity,Solar PV,18,0.02
+SLcity,Solar PV,19,0
+SLcity,Solar PV,20,0
+SLcity,Solar PV,21,0
+SLcity,Solar PV,22,0
+SLcity,Solar PV,23,0
+SLcountry,Onshore,0,0.0843
+SLcountry,Onshore,1,0.0801
+SLcountry,Onshore,2,0.0875
+SLcountry,Onshore,3,0.1104
+SLcountry,Onshore,4,0.0994
+SLcountry,Onshore,5,0.0667
+SLcountry,Onshore,6,0.1189
+SLcountry,Onshore,7,0.154
+SLcountry,Onshore,8,0.1793
+SLcountry,Onshore,9,0.1757
+SLcountry,Onshore,10,0.1581
+SLcountry,Onshore,11,0.1419
+SLcountry,Onshore,12,0.1303
+SLcountry,Onshore,13,0.1216
+SLcountry,Onshore,14,0.1111
+SLcountry,Onshore,15,0.1018
+SLcountry,Onshore,16,0.0953
+SLcountry,Onshore,17,0.0864
+SLcountry,Onshore,18,0.075
+SLcountry,Onshore,19,0.071
+SLcountry,Onshore,20,0.0578
+SLcountry,Onshore,21,0.0405
+SLcountry,Onshore,22,0.0231
+SLcountry,Onshore,23,0.0097
+SLcountry,Solar PV,0,0
+SLcountry,Solar PV,1,0
+SLcountry,Solar PV,2,0
+SLcountry,Solar PV,3,0
+SLcountry,Solar PV,4,0.017
+SLcountry,Solar PV,5,0.099
+SLcountry,Solar PV,6,0.233
+SLcountry,Solar PV,7,0.377
+SLcountry,Solar PV,8,0.505
+SLcountry,Solar PV,9,0.589
+SLcountry,Solar PV,10,0.654
+SLcountry,Solar PV,11,0.674
+SLcountry,Solar PV,12,0.657
+SLcountry,Solar PV,13,0.604
+SLcountry,Solar PV,14,0.512
+SLcountry,Solar PV,15,0.383
+SLcountry,Solar PV,16,0.242
+SLcountry,Solar PV,17,0.106
+SLcountry,Solar PV,18,0.02
+SLcountry,Solar PV,19,0
+SLcountry,Solar PV,20,0
+SLcountry,Solar PV,21,0
+SLcountry,Solar PV,22,0
+SLcountry,Solar PV,23,0
+SNcity,Onshore,0,0.006666667
+SNcity,Onshore,1,0.0079
+SNcity,Onshore,2,0.016566667
+SNcity,Onshore,3,0.034433333
+SNcity,Onshore,4,0.0406
+SNcity,Onshore,5,0.031666667
+SNcity,Onshore,6,0.0292
+SNcity,Onshore,7,0.022433333
+SNcity,Onshore,8,0.022833333
+SNcity,Onshore,9,0.034366667
+SNcity,Onshore,10,0.054233333
+SNcity,Onshore,11,0.0718
+SNcity,Onshore,12,0.059466667
+SNcity,Onshore,13,0.0399
+SNcity,Onshore,14,0.030166667
+SNcity,Onshore,15,0.0231
+SNcity,Onshore,16,0.014033333
+SNcity,Onshore,17,0.0077
+SNcity,Onshore,18,0.004533333
+SNcity,Onshore,19,0.003233333
+SNcity,Onshore,20,0.0045
+SNcity,Onshore,21,0.008466667
+SNcity,Onshore,22,0.017433333
+SNcity,Onshore,23,0.029866667
+SNcity,Solar PV,0,0
+SNcity,Solar PV,1,0
+SNcity,Solar PV,2,0
+SNcity,Solar PV,3,0.000333333
+SNcity,Solar PV,4,0.055
+SNcity,Solar PV,5,0.156666667
+SNcity,Solar PV,6,0.285333333
+SNcity,Solar PV,7,0.411333333
+SNcity,Solar PV,8,0.483333333
+SNcity,Solar PV,9,0.454333333
+SNcity,Solar PV,10,0.386666667
+SNcity,Solar PV,11,0.332666667
+SNcity,Solar PV,12,0.362666667
+SNcity,Solar PV,13,0.380333333
+SNcity,Solar PV,14,0.315333333
+SNcity,Solar PV,15,0.215333333
+SNcity,Solar PV,16,0.126
+SNcity,Solar PV,17,0.049666667
+SNcity,Solar PV,18,0.003333333
+SNcity,Solar PV,19,0
+SNcity,Solar PV,20,0
+SNcity,Solar PV,21,0
+SNcity,Solar PV,22,0
+SNcity,Solar PV,23,0
+SNcountry,Onshore,0,0.006666667
+SNcountry,Onshore,1,0.0079
+SNcountry,Onshore,2,0.016566667
+SNcountry,Onshore,3,0.034433333
+SNcountry,Onshore,4,0.0406
+SNcountry,Onshore,5,0.031666667
+SNcountry,Onshore,6,0.0292
+SNcountry,Onshore,7,0.022433333
+SNcountry,Onshore,8,0.022833333
+SNcountry,Onshore,9,0.034366667
+SNcountry,Onshore,10,0.054233333
+SNcountry,Onshore,11,0.0718
+SNcountry,Onshore,12,0.059466667
+SNcountry,Onshore,13,0.0399
+SNcountry,Onshore,14,0.030166667
+SNcountry,Onshore,15,0.0231
+SNcountry,Onshore,16,0.014033333
+SNcountry,Onshore,17,0.0077
+SNcountry,Onshore,18,0.004533333
+SNcountry,Onshore,19,0.003233333
+SNcountry,Onshore,20,0.0045
+SNcountry,Onshore,21,0.008466667
+SNcountry,Onshore,22,0.017433333
+SNcountry,Onshore,23,0.029866667
+SNcountry,Solar PV,0,0
+SNcountry,Solar PV,1,0
+SNcountry,Solar PV,2,0
+SNcountry,Solar PV,3,0.000333333
+SNcountry,Solar PV,4,0.055
+SNcountry,Solar PV,5,0.156666667
+SNcountry,Solar PV,6,0.285333333
+SNcountry,Solar PV,7,0.411333333
+SNcountry,Solar PV,8,0.483333333
+SNcountry,Solar PV,9,0.454333333
+SNcountry,Solar PV,10,0.386666667
+SNcountry,Solar PV,11,0.332666667
+SNcountry,Solar PV,12,0.362666667
+SNcountry,Solar PV,13,0.380333333
+SNcountry,Solar PV,14,0.315333333
+SNcountry,Solar PV,15,0.215333333
+SNcountry,Solar PV,16,0.126
+SNcountry,Solar PV,17,0.049666667
+SNcountry,Solar PV,18,0.003333333
+SNcountry,Solar PV,19,0
+SNcountry,Solar PV,20,0
+SNcountry,Solar PV,21,0
+SNcountry,Solar PV,22,0
+SNcountry,Solar PV,23,0
+STcity,Onshore,0,0.0213
+STcity,Onshore,1,0.0085
+STcity,Onshore,2,0.0117
+STcity,Onshore,3,0.0398
+STcity,Onshore,4,0.0657
+STcity,Onshore,5,0.0695
+STcity,Onshore,6,0.0652
+STcity,Onshore,7,0.0454
+STcity,Onshore,8,0.0306
+STcity,Onshore,9,0.0292
+STcity,Onshore,10,0.0314
+STcity,Onshore,11,0.0248
+STcity,Onshore,12,0.0145
+STcity,Onshore,13,0.0072
+STcity,Onshore,14,0.0043
+STcity,Onshore,15,0.0033
+STcity,Onshore,16,0.0026
+STcity,Onshore,17,0.0016
+STcity,Onshore,18,0.0023
+STcity,Onshore,19,0.0031
+STcity,Onshore,20,0.0055
+STcity,Onshore,21,0.0142
+STcity,Onshore,22,0.031
+STcity,Onshore,23,0.0517
+STcity,Solar PV,0,0
+STcity,Solar PV,1,0
+STcity,Solar PV,2,0
+STcity,Solar PV,3,0
+STcity,Solar PV,4,0.047
+STcity,Solar PV,5,0.135
+STcity,Solar PV,6,0.222
+STcity,Solar PV,7,0.307
+STcity,Solar PV,8,0.322
+STcity,Solar PV,9,0.252
+STcity,Solar PV,10,0.192
+STcity,Solar PV,11,0.207
+STcity,Solar PV,12,0.326
+STcity,Solar PV,13,0.385
+STcity,Solar PV,14,0.335
+STcity,Solar PV,15,0.245
+STcity,Solar PV,16,0.15
+STcity,Solar PV,17,0.065
+STcity,Solar PV,18,0.007
+STcity,Solar PV,19,0
+STcity,Solar PV,20,0
+STcity,Solar PV,21,0
+STcity,Solar PV,22,0
+STcity,Solar PV,23,0
+STcountry,Onshore,0,0.0213
+STcountry,Onshore,1,0.0085
+STcountry,Onshore,2,0.0117
+STcountry,Onshore,3,0.0398
+STcountry,Onshore,4,0.0657
+STcountry,Onshore,5,0.0695
+STcountry,Onshore,6,0.0652
+STcountry,Onshore,7,0.0454
+STcountry,Onshore,8,0.0306
+STcountry,Onshore,9,0.0292
+STcountry,Onshore,10,0.0314
+STcountry,Onshore,11,0.0248
+STcountry,Onshore,12,0.0145
+STcountry,Onshore,13,0.0072
+STcountry,Onshore,14,0.0043
+STcountry,Onshore,15,0.0033
+STcountry,Onshore,16,0.0026
+STcountry,Onshore,17,0.0016
+STcountry,Onshore,18,0.0023
+STcountry,Onshore,19,0.0031
+STcountry,Onshore,20,0.0055
+STcountry,Onshore,21,0.0142
+STcountry,Onshore,22,0.031
+STcountry,Onshore,23,0.0517
+STcountry,Solar PV,0,0
+STcountry,Solar PV,1,0
+STcountry,Solar PV,2,0
+STcountry,Solar PV,3,0
+STcountry,Solar PV,4,0.047
+STcountry,Solar PV,5,0.135
+STcountry,Solar PV,6,0.222
+STcountry,Solar PV,7,0.307
+STcountry,Solar PV,8,0.322
+STcountry,Solar PV,9,0.252
+STcountry,Solar PV,10,0.192
+STcountry,Solar PV,11,0.207
+STcountry,Solar PV,12,0.326
+STcountry,Solar PV,13,0.385
+STcountry,Solar PV,14,0.335
+STcountry,Solar PV,15,0.245
+STcountry,Solar PV,16,0.15
+STcountry,Solar PV,17,0.065
+STcountry,Solar PV,18,0.007
+STcountry,Solar PV,19,0
+STcountry,Solar PV,20,0
+STcountry,Solar PV,21,0
+STcountry,Solar PV,22,0
+STcountry,Solar PV,23,0
+THcity,Onshore,0,0.0517
+THcity,Onshore,1,0.0798
+THcity,Onshore,2,0.1095
+THcity,Onshore,3,0.1228
+THcity,Onshore,4,0.0922
+THcity,Onshore,5,0.0646
+THcity,Onshore,6,0.0393
+THcity,Onshore,7,0.0332
+THcity,Onshore,8,0.0473
+THcity,Onshore,9,0.0461
+THcity,Onshore,10,0.0305
+THcity,Onshore,11,0.0195
+THcity,Onshore,12,0.0225
+THcity,Onshore,13,0.0318
+THcity,Onshore,14,0.0387
+THcity,Onshore,15,0.0399
+THcity,Onshore,16,0.0339
+THcity,Onshore,17,0.0199
+THcity,Onshore,18,0.0199
+THcity,Onshore,19,0.0299
+THcity,Onshore,20,0.0372
+THcity,Onshore,21,0.0387
+THcity,Onshore,22,0.0378
+THcity,Onshore,23,0.0322
+THcity,Solar PV,0,0
+THcity,Solar PV,1,0
+THcity,Solar PV,2,0
+THcity,Solar PV,3,0
+THcity,Solar PV,4,0.039
+THcity,Solar PV,5,0.131
+THcity,Solar PV,6,0.242
+THcity,Solar PV,7,0.287
+THcity,Solar PV,8,0.25
+THcity,Solar PV,9,0.266
+THcity,Solar PV,10,0.377
+THcity,Solar PV,11,0.51
+THcity,Solar PV,12,0.519
+THcity,Solar PV,13,0.456
+THcity,Solar PV,14,0.363
+THcity,Solar PV,15,0.259
+THcity,Solar PV,16,0.163
+THcity,Solar PV,17,0.06
+THcity,Solar PV,18,0.005
+THcity,Solar PV,19,0
+THcity,Solar PV,20,0
+THcity,Solar PV,21,0
+THcity,Solar PV,22,0
+THcity,Solar PV,23,0
+THcountry,Onshore,0,0.0517
+THcountry,Onshore,1,0.0798
+THcountry,Onshore,2,0.1095
+THcountry,Onshore,3,0.1228
+THcountry,Onshore,4,0.0922
+THcountry,Onshore,5,0.0646
+THcountry,Onshore,6,0.0393
+THcountry,Onshore,7,0.0332
+THcountry,Onshore,8,0.0473
+THcountry,Onshore,9,0.0461
+THcountry,Onshore,10,0.0305
+THcountry,Onshore,11,0.0195
+THcountry,Onshore,12,0.0225
+THcountry,Onshore,13,0.0318
+THcountry,Onshore,14,0.0387
+THcountry,Onshore,15,0.0399
+THcountry,Onshore,16,0.0339
+THcountry,Onshore,17,0.0199
+THcountry,Onshore,18,0.0199
+THcountry,Onshore,19,0.0299
+THcountry,Onshore,20,0.0372
+THcountry,Onshore,21,0.0387
+THcountry,Onshore,22,0.0378
+THcountry,Onshore,23,0.0322
+THcountry,Solar PV,0,0
+THcountry,Solar PV,1,0
+THcountry,Solar PV,2,0
+THcountry,Solar PV,3,0
+THcountry,Solar PV,4,0.039
+THcountry,Solar PV,5,0.131
+THcountry,Solar PV,6,0.242
+THcountry,Solar PV,7,0.287
+THcountry,Solar PV,8,0.25
+THcountry,Solar PV,9,0.266
+THcountry,Solar PV,10,0.377
+THcountry,Solar PV,11,0.51
+THcountry,Solar PV,12,0.519
+THcountry,Solar PV,13,0.456
+THcountry,Solar PV,14,0.363
+THcountry,Solar PV,15,0.259
+THcountry,Solar PV,16,0.163
+THcountry,Solar PV,17,0.06
+THcountry,Solar PV,18,0.005
+THcountry,Solar PV,19,0
+THcountry,Solar PV,20,0
+THcountry,Solar PV,21,0
+THcountry,Solar PV,22,0
+THcountry,Solar PV,23,0

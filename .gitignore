@@ -1,0 +1,50 @@
+# Julia
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+deps/deps.jl
+docs/build/
+docs/site/
+
+# OS
+.DS_Store
+Thumbs.db
+*~
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Large data files (uncomment if needed)
+# *.csv
+# *.xlsx
+# *.json
+
+# Specific large files to exclude
+Data/OffshoreWind.xlsx
+Data/ninja_wind_country_DE_current_merra-2_nuts-2_corrected(1).csv
+Data/ninja_wind_*.csv
+Data/load.csv
+Data/YearlyLoad.csv
+*.zip
+*.tar.gz
+
+# Graphics/plots output (keep the directory structure but ignore large image files)
+Graphics/*.png
+Graphics/*.jpg
+Graphics/*.pdf
+Graphics/*.svg
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Backup files
+*.bak
+*.backup

@@ -1,0 +1,163 @@
+﻿region,country,region,technology,GW
+BBcity,BB,city,Solar PV,0.034876171
+BBcountry,BB,country,Solar PV,11.2367
+BEcity,BE,city,Solar PV,0.855455792
+BEcountry,BE,country,Solar PV,3.5822284
+BWcity,BW,city,Solar PV,1.214835794
+BWcountry,BW,country,Solar PV,30.0991
+BYcity,BY,city,Solar PV,0.930308931
+BYcountry,BY,country,Solar PV,42.21017
+HBcity,HB,city,Solar PV,0.752812323
+HBcountry,HB,country,Solar PV,1.0387609
+HEcity,HE,city,Solar PV,1.018639277
+HEcountry,HE,country,Solar PV,15.64866
+HHcity,HH,city,Solar PV,0.586382742
+HHcountry,HH,country,Solar PV,2.4696773
+MVcity,MV,city,Solar PV,0.076723295
+MVcountry,MV,country,Solar PV,7.14975
+NIcity,NI,city,Solar PV,0.564738263
+NIcountry,NI,country,Solar PV,30.80305
+NWcity,NW,city,Solar PV,3.745712227
+NWcountry,NW,country,Solar PV,42.54821
+RPcity,RP,city,Solar PV,1.151772666
+RPcountry,RP,country,Solar PV,12.83265
+SHcity,SH,city,Solar PV,0.18125129
+SHcountry,SH,country,Solar PV,10.25833
+SLcity,SL,city,Solar PV,0.874938649
+SLcountry,SL,country,Solar PV,2.937272
+SNcity,SN,city,Solar PV,0.492467606
+SNcountry,SN,country,Solar PV,10.40271
+STcity,ST,city,Solar PV,0.289493214
+STcountry,ST,country,Solar PV,8.38747
+THcity,TH,city,Solar PV,0.079268487
+THcountry,TH,country,Solar PV,6.79525
+BBcity,BB,city,Solar PV,0.034876171
+BBcountry,BB,country,Solar PV,11.2367
+BEcity,BE,city,Solar PV,0.855455792
+BEcountry,BE,country,Solar PV,3.5822284
+BWcity,BW,city,Solar PV,1.214835794
+BWcountry,BW,country,Solar PV,30.0991
+BYcity,BY,city,Solar PV,0.930308931
+BYcountry,BY,country,Solar PV,42.21017
+HBcity,HB,city,Solar PV,0.752812323
+HBcountry,HB,country,Solar PV,1.0387609
+HEcity,HE,city,Solar PV,1.018639277
+HEcountry,HE,country,Solar PV,15.64866
+HHcity,HH,city,Solar PV,0.586382742
+HHcountry,HH,country,Solar PV,2.4696773
+MVcity,MV,city,Solar PV,0.076723295
+MVcountry,MV,country,Solar PV,7.14975
+NIcity,NI,city,Solar PV,0.564738263
+NIcountry,NI,country,Solar PV,30.80305
+NWcity,NW,city,Solar PV,3.745712227
+NWcountry,NW,country,Solar PV,42.54821
+RPcity,RP,city,Solar PV,1.151772666
+RPcountry,RP,country,Solar PV,12.83265
+SHcity,SH,city,Solar PV,0.18125129
+SHcountry,SH,country,Solar PV,10.25833
+SLcity,SL,city,Solar PV,0.874938649
+SLcountry,SL,country,Solar PV,2.937272
+SNcity,SN,city,Solar PV,0.492467606
+SNcountry,SN,country,Solar PV,10.40271
+STcity,ST,city,Solar PV,0.289493214
+STcountry,ST,country,Solar PV,8.38747
+Seasea,Sea,sea,Solar PV,0
+THcity,TH,city,Solar PV,0.079268487
+THcountry,TH,country,Onshore,2.5
+BBcity,BB,city,Onshore,0
+BBcountry,BB,country,Onshore,4.33333
+BEcity,BE,city,Onshore,0
+BEcountry,BE,country,Onshore,0.1
+BWcity,BW,city,Onshore,0
+BWcountry,BW,country,Onshore,7.66667
+BYcity,BY,city,Onshore,0
+BYcountry,BY,country,Onshore,13.6667
+HBcity,HB,city,Onshore,0
+HBcountry,HB,country,Onshore,0.0666667
+HEcity,HE,city,Onshore,0
+HEcountry,HE,country,Onshore,4.66667
+HHcity,HH,city,Onshore,0
+HHcountry,HH,country,Onshore,0.1
+MVcity,MV,city,Onshore,0
+MVcountry,MV,country,Onshore,3.66667
+NIcity,NI,city,Onshore,0
+NIcountry,NI,country,Onshore,8.66667
+NWcity,NW,city,Onshore,0
+NWcountry,NW,country,Onshore,6.66667
+RPcity,RP,city,Onshore,0
+RPcountry,RP,country,Onshore,4
+SHcity,SH,city,Onshore,0
+SHcountry,SH,country,Onshore,3
+SLcity,SL,city,Onshore,0
+SLcountry,SL,country,Onshore,0.8
+SNcity,SN,city,Onshore,0
+SNcountry,SN,country,Onshore,3.33333
+STcity,ST,city,Onshore,0
+STcountry,ST,country,Onshore,2.46667
+THcity,TH,city,Onshore,0
+BBcity,BB,city,Offshore,0
+BBcountry,BB,country,Offshore,0
+BEcity,BE,city,Offshore,0
+BEcountry,BE,country,Offshore,0
+BWcity,BW,city,Offshore,0
+BWcountry,BW,country,Offshore,0
+BYcity,BY,city,Offshore,0
+BYcountry,BY,country,Offshore,0
+HBcity,HB,city,Offshore,0
+HBcountry,HB,country,Offshore,0
+HEcity,HE,city,Offshore,0
+HEcountry,HE,country,Offshore,0
+HHcity,HH,city,Offshore,0
+HHcountry,HH,country,Offshore,0
+MVcity,MV,city,Offshore,0
+MVcountry,MV,country,Offshore,3.25658
+NIcity,NI,city,Offshore,0
+NIcountry,NI,country,Offshore,20.8566
+NWcity,NW,city,Offshore,0
+NWcountry,NW,country,Offshore,0
+RPcity,RP,city,Offshore,0
+RPcountry,RP,country,Offshore,0
+SHcity,SH,city,Offshore,0
+SHcountry,SH,country,Offshore,11.9902
+SLcity,SL,city,Offshore,0
+SLcountry,SL,country,Offshore,0
+SNcity,SN,city,Offshore,0
+SNcountry,SN,country,Offshore,0
+STcity,ST,city,Offshore,0
+STcountry,ST,country,Offshore,0
+THcity,TH,city,Offshore,0
+THcountry,TH,country,Offshore,0
+BBcity,BB,city,Offshore,0
+BBcountry,BB,country,Hydro,0.008
+BEcity,BE,city,Hydro,0.00001
+BEcountry,BE,country,Hydro,0
+BWcity,BW,city,Hydro,0.000055
+BWcountry,BW,country,Hydro,1.224
+BYcity,BY,city,Hydro,0.000055
+BYcountry,BY,country,Hydro,3.033003
+HBcity,HB,city,Hydro,0.01000429
+HBcountry,HB,country,Hydro,0
+HEcity,HE,city,Hydro,0.000055
+HEcountry,HE,country,Hydro,0.11
+HHcity,HH,city,Hydro,0.0001
+HHcountry,HH,country,Hydro,0
+MVcity,MV,city,Hydro,0.000055
+MVcountry,MV,country,Hydro,0.005
+NIcity,NI,city,Hydro,0.000055
+NIcountry,NI,country,Hydro,0.127
+NWcity,NW,city,Hydro,0.000055
+NWcountry,NW,country,Hydro,0.273
+RPcity,RP,city,Hydro,0.000055
+RPcountry,RP,country,Hydro,0.405
+SHcity,SH,city,Hydro,0.000055
+SHcountry,SH,country,Hydro,0.006
+SLcity,SL,city,Hydro,0.000055
+SLcountry,SL,country,Hydro,0.0564461
+SNcity,SN,city,Hydro,0.000055
+SNcountry,SN,country,Hydro,0.113
+STcity,ST,city,Hydro,0.000055
+STcountry,ST,country,Hydro,0.033
+Seasea,Sea,sea,Hydro,0
+THcity,TH,city,Hydro,0.000055
+THcountry,TH,country,Hydro,0.057
+Sea,Sea,sea,Offshore,80
