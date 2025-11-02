@@ -396,4 +396,4 @@ Straße des 17. Juni 135, 10623 Berlin, Germany
 
 ---
 
-*This repository represents academic work conducted at TU Berlin as part of the Operations Research seminar series, examining the intersection of transportation electrification and energy system optimization.*## Figures
+*This repository represents academic work conducted at TU Berlin as part of the Operations Research for Network Infrastructure course
