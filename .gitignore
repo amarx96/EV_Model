@@ -36,12 +36,6 @@ Data/YearlyLoad.csv
 *.zip
 *.tar.gz
 
-# Graphics/plots output (keep the directory structure but ignore large image files)
-Graphics/*.png
-Graphics/*.jpg
-Graphics/*.pdf
-Graphics/*.svg
-
 # Jupyter notebooks checkpoints
 .ipynb_checkpoints/
 
