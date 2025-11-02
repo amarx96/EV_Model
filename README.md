@@ -225,26 +225,6 @@ g_{npt} \cdot \epsilon^{G}_{p}
 - **Red lines**: EV commuting routes between rural and urban areas
 - **Black dots**: Additional cities and metropolitan regions
 
-## Model Results Summary
-
-### Scenario Comparison
-
-| **Metric** | **2025** | **2035** | **Unit** |
-|------------|----------|----------|----------|
-| **EV System Value** | 129 | 0 | Million EUR |
-| **EV Share in Commuting** | 10% | 50% | % of commuters |
-| **Renewable Integration** | Medium | High | Qualitative |
-| **CCGT Capacity** | ~45 | ~45 | GWh |
-| **Storage Dominance** | EV Batteries | Stationary Batteries | Technology |
-
-### Storage Technology Values (Million EUR)
-
-| **Technology** | **2025** | **2035** |
-|----------------|----------|----------|
-| **EV Batteries** | 129.0 | 0.0 |
-| **Stationary Batteries** | 7.9 | 15.4 |
-| **Pumped Hydro** | 2.2 | 12.3 |
-| **Hydrogen Storage** | 4.2 | 1.9 |
 
 ## Technical Implementation
 
@@ -270,6 +250,25 @@ g_{npt} \cdot \epsilon^{G}_{p}
 | **Offshore Wind** | 121 | 109 | 102 | EUR/kW |
 
 ## Key Findings
+
+### 5.1 Scenario Comparison
+
+| **Metric** | **2025** | **2035** | **Unit** |
+|------------|----------|----------|----------|
+| **EV System Value** | 129 | 0 | Million EUR |
+| **EV Share in Commuting** | 10% | 50% | % of commuters |
+| **Renewable Integration** | Medium | High | Qualitative |
+| **CCGT Capacity** | ~45 | ~45 | GWh |
+| **Storage Dominance** | EV Batteries | Stationary Batteries | Technology |
+
+### Storage Technology Values (Million EUR)
+
+| **Technology** | **2025** | **2035** |
+|----------------|----------|----------|
+| **EV Batteries** | 129.0 | 0.0 |
+| **Stationary Batteries** | 7.9 | 15.4 |
+| **Pumped Hydro** | 2.2 | 12.3 |
+| **Hydrogen Storage** | 4.2 | 1.9 |
 
 ### 5.2 Generation Dispatch
 
@@ -299,6 +298,7 @@ g_{npt} \cdot \epsilon^{G}_{p}
 - Grid expansion reduces curtailment and regional price differentials.
 
 ---
+
 
 ### 5.3 Storage System Operation
 
@@ -386,38 +386,7 @@ include("Dashboard/src/Dashboard.jl")
 └── DATA_DOCUMENTATION.md  # Complete data source documentation
 ```
 
-## Academic Context
 
-This research contributes to the growing literature on energy system flexibility and EV integration:
-
-- **Novel spatial approach**: First study to explicitly model rural-urban EV commuting for grid services
-- **Comprehensive technology comparison**: Direct economic comparison of EV vs. stationary storage
-- **Policy-relevant scenarios**: Aligned with German climate targets and energy transition timeline
-- **Methodological innovation**: Integration of mobility patterns with power system optimization
-
-## Citation
-
-```bibtex
-@techreport{marx2025ev,
-  title={Electric Vehicles as a Flexibility Option in the German Energy System},
-  author={Marx, Alexander and Richter, Lorenz},
-  institution={Technical University of Berlin, Faculty VII, Workgroup for Infrastructure Policy},
-  year={2025},
-  type={Seminar Paper},
-  course={Operations Research - Methods for Network Engineering},
-  supervisor={Hirschhausen, Christian von and Hainsch, Karlo}
-}
-```
-
-## Contact Information
-
-**Primary Authors:**
-- **Alexander Marx**: [alex.marx@tu-berlin.de] - [@amarx96](https://github.com/amarx96)
-- **Lorenz Richter**: [lorenz.richter@tu-berlin.de]
-
-**Academic Supervisors:**
-- **Prof. Ph.D. Christian von Hirschhausen** - Workgroup for Infrastructure Policy (WIP)
-- **Ph.D. Karlo Hainsch** - Research Associate, WIP
 
 **Institution:**
 Technical University of Berlin  
