@@ -92,7 +92,7 @@ Subject to constraints for:
 
 ### 3. Spatial Distribution and Network Analysis
 
-![German Network Topology](Graphics/network_topology.png)
+![German Network Topology](./Graphics/map.jpg)
 *Figure 6: Model network showing 29 regions with transmission grid connections (yellow lines), EV commute routes (red lines), and population centers (green/blue circles) representing the spatial structure of the German energy system*
 
 **Network Characteristics:**
