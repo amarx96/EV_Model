@@ -46,9 +46,19 @@ Our model employs a **mixed-integer linear programming (MILP)** approach to mini
 - **Technology integration**: Comprehensive representation of generation, storage, and transmission
 
 ### Objective Function:
-```
-min Σ [Generation Costs + Investment Costs + Transmission Costs + EV Costs + Storage Costs]
-```
+The objective minimizes total annual system cost including generation, transmission, stationary storage and EV (V2G) storage investments:
+
+```math
+\begin{aligned}
+\min_{g_{npt},G_{np},F_{nm},\chi^{S}_{n,s},Z^{S}_{n,s},B^{S}_{n,s},B^{EV}_{nm}} \quad 
+&\sum_{n \in N} \sum_{p \in P} \sum_{t \in T} c^{g}_{npt} \cdot g_{npt} 
++ \sum_{n \in N} \sum_{p \in P} c^G_{np} \cdot G_{np} \\
+&+ \sum_{n \in N} \sum_{m \in N} c^F_{nm} \cdot F_{nm} \\
+&+ \sum_{n \in N} \sum_{s \in S} \chi^{S}_{n,s} \cdot c^{S,Capex,\chi}_{s} 
++ \sum_{n \in N} \sum_{s \in S} Z^{S}_{n,s} \cdot c^{S,Capex,Z}_{s} \\
+&+ \sum_{n \in N} \sum_{s \in S} B^{S}_{n,s} \cdot c^{S,Capex,B^{S}}_{s} 
++ c^{EV,Capex} \sum_{n \in N} \sum_{m \in N} \frac{B^{EV}_{nm}}{cap^{EV,B^{EV}}} \tau_{nm}
+\end{aligned}
 
 Subject to constraints for:
 - Energy balance and demand satisfaction
@@ -57,38 +67,150 @@ Subject to constraints for:
 - Storage operation and capacity constraints
 - CO₂ emission limitations
 
-## Key Results & Visualizations
+### EV Battery (V2G) Constraints
+#### State of Charge at t = 0
+```math
+b^{EV}_{nm0} = \frac{1}{2} B^{EV}_{nm} \tau_{nm}
++ x^{EV}_{nm0} \eta^{EV}_{charge}
+- z^{EV}_{nm0} (\eta^{EV}_{discharge})^{-1}
+\quad \forall n,m \in N
+```
+#### State of Charge for t > 0
+```math
+b^{EV}_{nmt} = b^{EV}_{nm,t-1}
++ x^{EV}_{nmt} \eta^{EV}_{charge}
+- z^{EV}_{nmt} (\eta^{EV}_{discharge})^{-1}
+\quad \forall n,m \in N,\; \forall t > 0
+```
+#### EV Energy Capacity Limit
+```math
+0 \le b^{EV}_{nmt} \le B^{EV}_{nm}
+\quad \forall n,m \in N,\; \forall t \in T
+```
+#### EV Maximum Energy Capacity
+```math
+0 \le B^{EV}_{nm} \le cap^{B,EV} \tau_{nm}
+\quad \forall n,m \in N
+```
+#### EV Charging Power Limit
+```math
+0 \le x^{EV}_{nmt} \le \chi^{EV}_{nm} \tau_{nm} \omega_{nmt}
+\quad \forall n,m \in N,\; \forall t \in T
+```
 
-### 1. Technology Mix Evolution (2025 → 2035)
+#### EV Discharging Power Limit
+```math
+0 \le z^{EV}_{nmt} \le Z^{EV}_{nm} \tau_{nm} \omega_{nmt}
+\quad \forall n,m \in N,\; \forall t \in T
+```
 
-![Baseline Technology Mix](Graphics/technology_mix_baseline.png)
-*Figure 1: Baseline energy production showing current technology composition with CCGT dominance (~80 GWh) and limited renewable integration*
+#### EV Daily Neutrality (No Net Energy Use from Car Owners)
+```math
+\sum_{t \in T} x^{EV}_{nmt} = \sum_{t \in T} z^{EV}_{nmt}
+\quad \forall n,m \in N
+```
+#### Nodal Power Balance
+```math
+\begin{aligned}
+\sum_{p \in P} g_{npt}
++ \sum_{m \in N} f_{mnt}
++ \sum_{m \in N} V^{EV}_{nm} \omega^{V}_{mnt} z^{EV}_{mnt}
++ \sum_{s \in S} z^{S}_{nst}
+=
+e_{nt}
++ \zeta_{nt}
++ \sum_{m \in N} f_{nmt}
++ \sum_{m \in N} V^{EV}_{nm} \omega^{V}_{nmt} x^{EV}_{nmt}
++ \sum_{s \in S} x^{S}_{nst}
+\quad \forall n \in N,\; \forall t \in T
+\end{aligned}
+```
+### Generation and Transmission Constraints
 
-![Technology Mix 2025](Graphics/technology_mix_2025.png)
-*Figure 2: 2025 scenario demonstrating increased renewable penetration with significant CCGT (~45 GWh), emerging Biomass (~9 GWh), and growing wind/solar contributions*
+#### Renewable Generation
+```math
+g_{npt} = \omega^{RES}_{npt} G_{np}
+\quad \forall n \in N,\; \forall p \in P^{RES},\; \forall t \in T
+```
 
-![Technology Mix 2035](Graphics/technology_mix_2035.png)
-*Figure 3: 2035 scenario showing further renewable expansion with reduced CCGT dependency (~45 GWh) and enhanced transmission infrastructure role*
+#### Renewable Capacity Limit
+```math
+0 \le G_{np} \le cap^{G}_{np}
+\quad \forall n \in N,\; \forall p \in P^{RES}
+```
 
-**Key Insights:**
-- **CCGT remains dominant** but with reduced capacity from 2025 to 2035
-- **Renewable energy sources** show steady growth, particularly wind and solar
-- **Transmission infrastructure** becomes increasingly critical for renewable integration
-- **Biomass emerges** as an important dispatchable renewable source in 2025
+#### Fossil Generation
+```math
+0 \le g_{npt} \le G_{np}
+\quad \forall n \in N,\; \forall p \in P^{F},\; \forall t \in T
+```
 
-### 2. Storage System Analysis
+#### Transmission Capacity
+```math
+0 \le f_{nmt} \le F_{nm} A_{nm}
+\quad \forall n,m \in N,\; \forall t \in T
+```
 
-![Storage Technologies 2025](Graphics/storage_mix_2025.png)
-*Figure 4: 2025 storage mix showing EV battery dominance (~3.5 GWh) as the primary flexibility provider, with supporting roles from stationary batteries and pumped hydro*
+---
 
-![Storage Technologies 2035](Graphics/storage_mix_2035.png)
-*Figure 5: 2035 storage evolution with reduced EV contribution and increased stationary battery deployment (~11 GWh), indicating technology maturation and cost optimization*
+### Stationary Storage Constraints
 
-**Key Insights:**
-- **EV batteries provide significant value in 2025** (129 million EUR system value) when stationary storage is expensive
-- **Technology transition by 2035**: Stationary batteries become cost-competitive, reducing EV system value to 0
-- **Pumped hydro storage** maintains steady contribution across scenarios
-- **Hydrogen storage** plays limited role in daily energy balancing
+#### State of Charge at t = 0
+```math
+b^{S}_{ns0} = \frac{1}{2} B^{S}_{ns}
++ x^{S}_{ns0} \eta_{s,charge}
+- z^{S}_{ns0} (\eta_{s,discharge})^{-1}
+\quad \forall n \in N,\; \forall s \in S
+```
+
+#### State of Charge for t > 0
+```math
+b^{S}_{nst} = b^{S}_{ns,t-1}
++ x^{S}_{nst} \eta_{s,charge}
+- z^{S}_{nst} (\eta_{s,discharge})^{-1}
+\quad \forall n \in N,\; \forall s \in S,\; \forall t > 0
+```
+
+#### Stationary Storage Energy Capacity
+```math
+0 \le b^{S}_{nst} \le B^{S}_{ns}
+\quad \forall n \in N,\; \forall s \in S
+```
+
+#### Maximum Installed Stationary Storage Capacity
+```math
+0 \le B^{S}_{ns} \le cap^{B,S}_{ns}
+\quad \forall n \in N,\; \forall s \in S
+```
+
+#### Stationary Storage Charging Power
+```math
+0 \le x^{S}_{nst} \le \chi^{S}_{ns}
+\quad \forall n \in N,\; \forall s \in S,\; \forall t \in T
+```
+
+#### Stationary Storage Discharging Power
+```math
+0 \le z^{S}_{nst} \le Z^{S}_{ns}
+\quad \forall n \in N,\; \forall s \in S,\; \forall t \in T
+```
+
+#### Stationary Storage Daily Neutrality
+```math
+\sum_{t \in T} x^{S}_{nst} = \sum_{t \in T} z^{S}_{nst}
+\quad \forall n \in N,\; \forall s \in S
+```
+
+---
+
+### Emission Constraint
+
+#### CO₂ Cap
+```math
+\sum_{n \in N} \sum_{p \in P} \sum_{t \in T}
+g_{npt} \cdot \epsilon^{G}_{p}
+\le cap^{CO_2}
+```
 
 ### 3. Spatial Distribution and Network Analysis
 
@@ -148,54 +270,66 @@ Subject to constraints for:
 
 ## Key Findings
 
-### 1. **EV Flexibility Value Diminishes Over Time**
-- EVs provide substantial system value (129M EUR) in 2025 when stationary storage is expensive
-- By 2035, improved stationary battery economics eliminate EV system value
-- **Policy Implication**: Early EV adoption programs should emphasize grid services
+### 5.2 Generation Dispatch
 
-### 2. **Spatial Energy System Transformation**
-- Rural areas become renewable energy production centers
-- Urban areas rely increasingly on transmission and storage
-- **EV commuting** creates natural energy transport mechanism between regions
+#### Baseline (No V2G)
 
-### 3. **Technology Transition Pathway**
-- **2025**: EV-led flexibility with emerging renewables
-- **2035**: Stationary storage dominance with high renewable penetration
-- **Grid infrastructure** becomes critical bottleneck requiring expansion
+![Baseline Dispatch](./Graphics/production_by_technology.png)
 
-### 4. **Emission Reduction Potential**
-- Model incorporates German Federal Climate Change Act targets
-- CO₂ budget: 220M tons (2025) → 110M tons (2035) → 0 tons (2045)
-- EV integration supports decarbonization through renewable energy balancing
+**Figure 2:** Baseline dispatch without V2G, showing strong CCGT use (~80 GWh) and limited renewable shares.
 
-## Policy Implications
+#### 2025 Scenario with V2G
 
-1. **Early EV Market Development**: Support V2G infrastructure when stationary storage costs are high
-2. **Coordinated Infrastructure Planning**: Align charging infrastructure with renewable energy deployment
-3. **Grid Modernization**: Expand transmission capacity for renewable energy integration
-4. **Rural-Urban Energy Coordination**: Leverage commuting patterns for system-wide optimization
+![Dispatch 2025](./Graphics/production_by_technology2025.png)
 
-## Data Sources & Assumptions
+**Figure 3:** 2025 system with V2G. Renewable penetration increases, biomass emerges as dispatchable capacity (~9 GWh), and CCGT drops to ~45 GWh.
 
-### Key Datasets
-- **Commuting data**: Pendlerrechnung der Länder (2022)
-- **Renewable profiles**: Pfenninger and Staffell (2016) - 30 years validated data
-- **Technology costs**: PyPSA technology database (Brown et al., 2017)
-- **Emission factors**: Hamels (2021) and German Federal Climate Act
+#### 2035 Scenario with V2G
 
-### Model Limitations
-- **Representative days**: Single summer/winter day may not capture seasonal variations
-- **Simplified charging behavior**: Assumes optimal coordination without behavioral constraints
-- **Uniform EV adoption**: Does not account for socio-economic adoption patterns
-- **Perfect foresight**: Optimization assumes complete information availability
+![Dispatch 2035](./Graphics/production_by_technology2035.png)
 
-## Future Research Directions
+**Figure 4:** 2035 system with V2G. Further renewable expansion with reduced CCGT (~45 GWh). Increased transmission capacity reduces curtailment.
 
-1. **Behavioral Integration**: Incorporate heterogeneous charging preferences and willingness to participate in V2G
-2. **Multi-seasonal Analysis**: Extend temporal scope beyond representative days
-3. **International Integration**: Model cross-border electricity trade and European coordination
-4. **Uncertainty Analysis**: Robust optimization under deep uncertainty scenarios
-5. **Sector Coupling**: Include heating and industrial demand interactions
+**Technology mix evolution:**
+
+- Renewable shares (wind + solar) increase strongly from 2025 to 2035.
+- CCGT remains relevant but declines as a balancing source.
+- Biomass becomes a dispatchable renewable supporting daily balancing.
+- Grid expansion reduces curtailment and regional price differentials.
+
+---
+
+### 5.3 Storage System Operation
+
+#### 2025 Storage Dispatch
+
+![Storage 2025](./Graphics/StorageDispatch2025.png)
+
+**Figure 5:** Storage dispatch in 2025. EV batteries provide most flexibility (~3.5 GWh), as stationary storage is still limited and costly.
+
+#### 2035 Storage Dispatch
+
+![Storage 2035](./Graphics/StorageDispatch2035.png)
+
+**Figure 6:** Storage dispatch in 2035. Stationary batteries expand to ~11 GWh and become the main flexibility source. Pumped hydro remains stable, hydrogen plays a minor role.
+
+**Storage insights:**
+
+- **2025:** EVs provide significant system value due to lack of stationary storage.
+- **2035:** Stationary batteries become cost-competitive, reducing the relative value of V2G.
+- Pumped hydro provides a constant contribution across both years.
+- Hydrogen has a limited role in short-term balancing.
+
+---
+
+## 6. Interpretation
+
+- V2G provides meaningful system flexibility in early years when stationary battery capacity is low.
+- By 2035, large-scale stationary storage reduces reliance on V2G, but V2G still supports peak hours.
+- Transmission expansion is a necessary complement to high renewable deployment.
+- Combining storage and network reinforcement enables high renewable system operation.
+
+---
 
 ## Installation & Usage
 
@@ -293,24 +427,3 @@ Straße des 17. Juni 135, 10623 Berlin, Germany
 ---
 
 *This repository represents academic work conducted at TU Berlin as part of the Operations Research seminar series, examining the intersection of transportation electrification and energy system optimization.*## Figures
-
-### Network Topology
-![Network Model](./Graphics/map.jpg)
-
-### Technology Dispatch
-**Baseline**
-![Baseline Dispatch](./Graphics/production_by_technology.png)
-
-**2025**
-![Dispatch 2025](./Graphics/production_by_technology2025.png)
-
-**2035**
-![Dispatch 2035](./Graphics/production_by_technology2035.png)
-
-### Storage & V2G Dispatch
-**2025**
-![Storage Dispatch 2025](./Graphics/StorageDispatch2025.png)
-
-**2035**
-![Storage Dispatch 2035](./Graphics/StorageDispatch2035.png)
-
