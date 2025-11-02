@@ -213,7 +213,7 @@ g_{npt} \cdot \epsilon^{G}_{p}
 \le cap^{CO_2}
 ```
 
-### 3. Spatial Distribution and Network Analysis
+### Spatial Distribution and Network Analysis
 
 ![German Network Topology](./Graphics/map.jpg)
 *Figure 6: Model network showing 29 regions with transmission grid connections (yellow lines), EV commute routes (red lines), and population centers (green/blue circles) representing the spatial structure of the German energy system*
@@ -251,7 +251,7 @@ g_{npt} \cdot \epsilon^{G}_{p}
 
 ## Key Findings
 
-### 5.1 Scenario Comparison
+### Scenario Comparison
 
 | **Metric** | **2025** | **2035** | **Unit** |
 |------------|----------|----------|----------|
@@ -270,7 +270,7 @@ g_{npt} \cdot \epsilon^{G}_{p}
 | **Pumped Hydro** | 2.2 | 12.3 |
 | **Hydrogen Storage** | 4.2 | 1.9 |
 
-### 5.2 Generation Dispatch
+### Generation Dispatch
 
 #### Baseline (No V2G)
 
@@ -300,7 +300,7 @@ g_{npt} \cdot \epsilon^{G}_{p}
 ---
 
 
-### 5.3 Storage System Operation
+### Storage System Operation
 
 #### 2025 Storage Dispatch
 
@@ -323,7 +323,7 @@ g_{npt} \cdot \epsilon^{G}_{p}
 
 ---
 
-## 6. Interpretation
+## Interpretation
 
 - V2G provides meaningful system flexibility in early years when stationary battery capacity is low.
 - By 2035, large-scale stationary storage reduces reliance on V2G, but V2G still supports peak hours.
