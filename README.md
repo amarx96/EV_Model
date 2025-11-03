@@ -1,4 +1,4 @@
-# Energy System Optimization with EV Battery Flexibility
+# Energy System Optimization with EV Battery Flexibility (Vehicle-to-Grid)
 
 ## Technical University of Berlin - Seminar Paper
 **Faculty VII (School of Economics and Management)**  
